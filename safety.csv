@@ -1,0 +1,1001 @@
+Device Type,GPS Coordinates,Panic Button Activation,Incident Type,Response Time (minutes),Response Outcome,Date,Time,Day,Location Type,Age,Emergency Contact Status
+Smartwatch,"(15.604475, 80.136302)",Yes,Teasing,9,Resolved,20-12-2024,13:01,Friday,Safe Zone,21,Notified with Confirmation
+Smartwatch,"(15.508561, 80.045117)",No,Teasing,18,Resolved,07-02-2024,13:47,Wednesday,Moderate-risk Zone,20,Notified with Confirmation
+Panic Button Device,"(15.574849, 80.011783)",No,Assault,15,In Progress,17-10-2024,08:04,Thursday,Moderate-risk Zone,42,Notified with Delay
+Smartwatch,"(15.660144, 80.139405)",Yes,Assault,15,In Progress,04-06-2024,20:31,Tuesday,Safe Zone,43,Notified with Confirmation
+Smartwatch,"(15.537836, 80.007227)",No,Assault,26,Resolved,10-02-2024,05:11,Saturday,High-risk Zone,37,Notified with Delay
+Mobile,"(15.696739, 80.158383)",Yes,Teasing,2,Unresolved,21-01-2024,00:49,Sunday,High-risk Zone,15,Notified with Confirmation
+Panic Button Device,"(15.550307, 80.056338)",No,Teasing,14,Unresolved,17-09-2024,13:34,Tuesday,High-risk Zone,20,Notified with Confirmation
+Smartwatch,"(15.68409, 80.086376)",No,Teasing,14,Resolved,26-05-2024,10:33,Sunday,Safe Zone,35,Notified
+Smartwatch,"(15.599904, 80.160613)",Yes,Assault,10,In Progress,14-07-2024,10:44,Sunday,Moderate-risk Zone,37,Notified with Confirmation
+Mobile,"(15.587344, 80.093714)",Yes,Assault,9,In Progress,16-11-2024,17:14,Saturday,Moderate-risk Zone,30,Notified with Confirmation
+Mobile,"(15.539534, 80.053189)",No,Teasing,25,Resolved,20-01-2024,10:50,Saturday,High-risk Zone,37,Notified with Confirmation
+Mobile,"(15.664891, 80.031278)",Yes,Teasing,16,Resolved,03-03-2024,08:23,Sunday,Safe Zone,31,Notified with Confirmation
+Panic Button Device,"(15.620929, 80.148769)",No,Teasing,4,Resolved,11-12-2024,06:28,Wednesday,High-risk Zone,15,Notified with Confirmation
+Panic Button Device,"(15.632161, 80.048959)",Yes,Teasing,4,Unresolved,29-04-2024,14:20,Monday,Moderate-risk Zone,19,Notified with Delay
+Smartwatch,"(15.650829, 80.078909)",No,Teasing,22,Resolved,03-01-2024,16:02,Wednesday,Safe Zone,41,Notified with Confirmation
+Mobile,"(15.667117, 80.114662)",Yes,Teasing,8,In Progress,11-06-2024,10:36,Tuesday,High-risk Zone,19,Notified with Delay
+Panic Button Device,"(15.516736, 80.085223)",No,Teasing,20,In Progress,31-08-2024,00:11,Saturday,Moderate-risk Zone,24,Notified
+Smartwatch,"(15.534977, 80.04392)",Yes,Teasing,9,Unresolved,08-03-2024,14:18,Friday,High-risk Zone,36,Notified
+Mobile,"(15.65559, 80.010653)",No,Teasing,30,Resolved,23-05-2024,13:18,Thursday,Moderate-risk Zone,35,Notified with Delay
+Smartwatch,"(15.655579, 80.063596)",No,Teasing,19,In Progress,18-09-2024,19:12,Wednesday,Safe Zone,35,Notified with Confirmation
+Smartwatch,"(15.503494, 80.110001)",Yes,Teasing,14,In Progress,23-08-2024,07:24,Friday,High-risk Zone,33,Notified
+Smartwatch,"(15.511391, 80.195189)",Yes,Teasing,24,Unresolved,18-12-2024,21:28,Wednesday,Safe Zone,22,Notified with Delay
+Panic Button Device,"(15.621665, 80.060228)",No,Assault,25,In Progress,03-06-2024,20:42,Monday,Moderate-risk Zone,36,Notified with Confirmation
+Smartwatch,"(15.544608, 80.090446)",Yes,Assault,4,In Progress,30-11-2024,09:43,Saturday,Moderate-risk Zone,40,Notified
+Panic Button Device,"(15.562244, 80.130921)",Yes,Teasing,7,Unresolved,28-06-2024,22:22,Friday,Safe Zone,25,Notified
+Smartwatch,"(15.503757, 80.184174)",Yes,Assault,23,Resolved,15-10-2024,20:39,Tuesday,Safe Zone,23,Notified with Delay
+Mobile,"(15.616629, 80.074091)",Yes,Teasing,24,In Progress,23-09-2024,13:14,Monday,High-risk Zone,45,Notified with Confirmation
+Panic Button Device,"(15.559059, 80.182871)",Yes,Teasing,24,Unresolved,10-11-2024,22:19,Sunday,Safe Zone,26,Notified with Confirmation
+Smartwatch,"(15.662678, 80.085176)",No,Assault,5,In Progress,14-04-2024,17:48,Sunday,Safe Zone,18,Notified
+Panic Button Device,"(15.532177, 80.109424)",No,Assault,13,Unresolved,20-02-2024,11:55,Tuesday,High-risk Zone,42,Notified with Confirmation
+Mobile,"(15.69807, 80.005938)",No,Teasing,17,In Progress,20-01-2024,06:46,Saturday,High-risk Zone,19,Notified
+Smartwatch,"(15.515869, 80.068505)",Yes,Teasing,6,Unresolved,20-07-2024,06:10,Saturday,Safe Zone,42,Notified with Confirmation
+Mobile,"(15.660199, 80.093315)",Yes,Assault,10,Resolved,07-12-2024,16:34,Saturday,Moderate-risk Zone,26,Notified
+Panic Button Device,"(15.544675, 80.079235)",Yes,Assault,15,Resolved,21-10-2024,11:06,Monday,Moderate-risk Zone,40,Notified with Delay
+Panic Button Device,"(15.528757, 80.189131)",No,Assault,27,In Progress,25-03-2024,10:37,Monday,High-risk Zone,28,Notified with Delay
+Smartwatch,"(15.653872, 80.098399)",No,Teasing,29,In Progress,10-10-2024,14:46,Thursday,High-risk Zone,28,Notified with Confirmation
+Mobile,"(15.514824, 80.168366)",Yes,Teasing,28,In Progress,28-11-2024,13:52,Thursday,Safe Zone,20,Notified
+Mobile,"(15.595124, 80.079478)",Yes,Teasing,8,In Progress,26-08-2024,18:18,Monday,Safe Zone,32,Notified with Confirmation
+Panic Button Device,"(15.622513, 80.176155)",No,Assault,24,Unresolved,18-08-2024,05:45,Sunday,High-risk Zone,35,Notified with Confirmation
+Smartwatch,"(15.694403, 80.169614)",No,Teasing,13,Resolved,17-09-2024,13:28,Tuesday,Moderate-risk Zone,22,Notified with Confirmation
+Smartwatch,"(15.684386, 80.162983)",Yes,Teasing,7,In Progress,23-04-2024,14:54,Tuesday,High-risk Zone,20,Notified with Delay
+Mobile,"(15.635249, 80.089781)",Yes,Teasing,29,In Progress,02-11-2024,06:22,Saturday,Moderate-risk Zone,38,Notified with Confirmation
+Mobile,"(15.518117, 80.085704)",No,Assault,14,In Progress,10-09-2024,11:10,Tuesday,Safe Zone,36,Notified with Confirmation
+Mobile,"(15.512818, 80.17175)",No,Teasing,7,Unresolved,15-04-2024,01:05,Monday,Moderate-risk Zone,29,Notified with Delay
+Panic Button Device,"(15.695357, 80.005605)",No,Assault,11,Resolved,16-08-2024,01:21,Friday,Safe Zone,38,Notified with Delay
+Mobile,"(15.540751, 80.168373)",Yes,Teasing,22,Resolved,29-08-2024,18:03,Thursday,Safe Zone,43,Notified
+Smartwatch,"(15.576687, 80.05563)",Yes,Teasing,25,Unresolved,02-08-2024,21:08,Friday,High-risk Zone,28,Notified with Delay
+Smartwatch,"(15.684688, 80.018141)",Yes,Teasing,29,Unresolved,17-09-2024,15:51,Tuesday,Moderate-risk Zone,35,Notified with Delay
+Panic Button Device,"(15.606851, 80.01996)",No,Teasing,23,In Progress,20-02-2024,18:02,Tuesday,Safe Zone,30,Notified
+Smartwatch,"(15.642089, 80.153565)",No,Assault,8,Resolved,23-05-2024,04:13,Thursday,High-risk Zone,22,Notified with Delay
+Panic Button Device,"(15.582845, 80.016729)",Yes,Assault,23,Resolved,24-07-2024,11:15,Wednesday,Moderate-risk Zone,35,Notified with Confirmation
+Panic Button Device,"(15.519631, 80.108407)",Yes,Assault,29,In Progress,10-01-2024,16:51,Wednesday,Moderate-risk Zone,34,Notified
+Panic Button Device,"(15.618733, 80.12453)",No,Teasing,8,Resolved,21-11-2024,17:37,Thursday,High-risk Zone,25,Notified
+Smartwatch,"(15.685876, 80.095931)",Yes,Teasing,19,In Progress,17-09-2024,11:12,Tuesday,Safe Zone,20,Notified with Delay
+Smartwatch,"(15.593508, 80.189741)",No,Assault,18,In Progress,30-08-2024,23:17,Friday,Safe Zone,17,Notified with Confirmation
+Mobile,"(15.573882, 80.050505)",Yes,Teasing,23,Unresolved,01-01-2024,23:10,Monday,Safe Zone,33,Notified with Delay
+Panic Button Device,"(15.517101, 80.1694)",Yes,Teasing,9,In Progress,16-06-2024,13:39,Sunday,Safe Zone,24,Notified
+Mobile,"(15.592006, 80.116427)",No,Teasing,25,In Progress,29-04-2024,09:54,Monday,Safe Zone,24,Notified
+Panic Button Device,"(15.603484, 80.121399)",Yes,Teasing,6,Resolved,10-05-2024,01:53,Friday,Moderate-risk Zone,27,Notified
+Smartwatch,"(15.618473, 80.14126)",Yes,Teasing,19,Resolved,17-08-2024,00:56,Saturday,Moderate-risk Zone,21,Notified with Delay
+Smartwatch,"(15.682968, 80.157283)",No,Teasing,3,Unresolved,26-07-2024,16:14,Friday,Moderate-risk Zone,31,Notified with Delay
+Panic Button Device,"(15.508496, 80.167686)",No,Teasing,18,In Progress,14-12-2024,05:20,Saturday,Moderate-risk Zone,24,Notified
+Mobile,"(15.670274, 80.008388)",Yes,Teasing,20,Unresolved,15-01-2024,07:21,Monday,Safe Zone,38,Notified
+Mobile,"(15.658144, 80.043713)",Yes,Assault,28,Resolved,23-01-2024,13:31,Tuesday,Safe Zone,36,Notified with Delay
+Smartwatch,"(15.66598, 80.101321)",Yes,Teasing,8,In Progress,17-01-2024,18:48,Wednesday,High-risk Zone,18,Notified with Delay
+Mobile,"(15.654869, 80.049282)",Yes,Teasing,27,Resolved,05-02-2024,13:59,Monday,Safe Zone,23,Notified with Delay
+Mobile,"(15.666396, 80.04197)",Yes,Teasing,8,Unresolved,02-02-2024,22:28,Friday,High-risk Zone,23,Notified
+Smartwatch,"(15.622105, 80.046331)",No,Teasing,11,Resolved,05-11-2024,18:51,Tuesday,High-risk Zone,26,Notified
+Mobile,"(15.542829, 80.0262)",Yes,Assault,20,Resolved,01-02-2024,18:51,Thursday,Safe Zone,44,Notified with Confirmation
+Mobile,"(15.532141, 80.151354)",Yes,Teasing,6,Resolved,31-08-2024,23:18,Saturday,Moderate-risk Zone,38,Notified
+Smartwatch,"(15.551526, 80.142761)",Yes,Teasing,21,Unresolved,01-07-2024,22:04,Monday,Moderate-risk Zone,24,Notified with Delay
+Panic Button Device,"(15.585028, 80.168356)",Yes,Teasing,23,Resolved,28-12-2024,17:18,Saturday,Moderate-risk Zone,20,Notified
+Smartwatch,"(15.666537, 80.094811)",Yes,Assault,21,Unresolved,02-10-2024,12:05,Wednesday,Moderate-risk Zone,35,Notified
+Smartwatch,"(15.698775, 80.083813)",No,Assault,12,In Progress,11-10-2024,15:32,Friday,Moderate-risk Zone,45,Notified with Delay
+Panic Button Device,"(15.542868, 80.00276)",Yes,Teasing,11,Unresolved,26-07-2024,18:49,Friday,High-risk Zone,39,Notified with Confirmation
+Smartwatch,"(15.62675, 80.080349)",No,Teasing,8,Unresolved,20-06-2024,14:08,Thursday,Safe Zone,29,Notified with Confirmation
+Mobile,"(15.57197, 80.128145)",Yes,Assault,24,In Progress,07-07-2024,20:55,Sunday,High-risk Zone,38,Notified with Delay
+Panic Button Device,"(15.560798, 80.031644)",No,Assault,23,Resolved,26-03-2024,00:46,Tuesday,High-risk Zone,34,Notified with Confirmation
+Panic Button Device,"(15.522598, 80.079923)",No,Teasing,30,Resolved,16-05-2024,06:18,Thursday,Safe Zone,29,Notified with Delay
+Mobile,"(15.614369, 80.115623)",No,Assault,28,In Progress,14-05-2024,13:11,Tuesday,High-risk Zone,15,Notified with Delay
+Mobile,"(15.689667, 80.1397)",No,Teasing,15,Unresolved,22-10-2024,00:55,Tuesday,Moderate-risk Zone,34,Notified with Confirmation
+Mobile,"(15.662071, 80.108193)",Yes,Assault,22,In Progress,19-07-2024,00:40,Friday,Moderate-risk Zone,36,Notified
+Smartwatch,"(15.557031, 80.161864)",Yes,Teasing,22,In Progress,24-12-2024,17:21,Tuesday,Moderate-risk Zone,15,Notified with Delay
+Mobile,"(15.688514, 80.108046)",No,Assault,19,Resolved,04-01-2024,02:40,Thursday,Safe Zone,28,Notified with Confirmation
+Smartwatch,"(15.627286, 80.105608)",Yes,Teasing,29,Unresolved,27-02-2024,07:56,Tuesday,High-risk Zone,27,Notified with Confirmation
+Panic Button Device,"(15.596123, 80.055102)",No,Assault,14,In Progress,06-03-2024,01:07,Wednesday,High-risk Zone,30,Notified
+Smartwatch,"(15.660097, 80.043854)",No,Assault,29,In Progress,14-08-2024,21:32,Wednesday,Moderate-risk Zone,28,Notified
+Panic Button Device,"(15.624517, 80.065165)",Yes,Teasing,17,Resolved,10-06-2024,18:55,Monday,High-risk Zone,39,Notified
+Mobile,"(15.647075, 80.186553)",No,Teasing,17,Resolved,23-06-2024,17:39,Sunday,Moderate-risk Zone,27,Notified
+Smartwatch,"(15.649568, 80.197746)",Yes,Assault,26,Resolved,25-03-2024,06:11,Monday,Safe Zone,28,Notified
+Mobile,"(15.589225, 80.13902)",Yes,Assault,25,In Progress,25-03-2024,15:03,Monday,High-risk Zone,37,Notified with Confirmation
+Mobile,"(15.561344, 80.139952)",No,Assault,6,Unresolved,23-03-2024,09:32,Saturday,Moderate-risk Zone,22,Notified with Delay
+Panic Button Device,"(15.601558, 80.105073)",No,Teasing,8,Resolved,05-08-2024,21:09,Monday,Moderate-risk Zone,45,Notified with Confirmation
+Mobile,"(15.639422, 80.151387)",Yes,Assault,9,Unresolved,17-06-2024,07:49,Monday,Moderate-risk Zone,20,Notified with Confirmation
+Panic Button Device,"(15.640382, 80.173009)",Yes,Teasing,14,In Progress,14-12-2024,04:21,Saturday,High-risk Zone,30,Notified with Confirmation
+Smartwatch,"(15.529958, 80.156602)",Yes,Teasing,25,In Progress,16-06-2024,11:29,Sunday,Moderate-risk Zone,17,Notified with Confirmation
+Panic Button Device,"(15.557182, 80.002206)",No,Assault,23,In Progress,26-09-2024,21:40,Thursday,Safe Zone,42,Notified with Confirmation
+Mobile,"(15.627358, 80.023327)",No,Assault,3,Resolved,08-09-2024,10:24,Sunday,High-risk Zone,22,Notified with Delay
+Panic Button Device,"(15.673871, 80.063482)",Yes,Teasing,13,In Progress,15-06-2024,18:31,Saturday,Moderate-risk Zone,26,Notified
+Smartwatch,"(15.697299, 80.117493)",No,Teasing,9,In Progress,28-12-2024,13:29,Saturday,High-risk Zone,45,Notified
+Mobile,"(15.516205, 80.166541)",No,Assault,24,Unresolved,28-09-2024,18:45,Saturday,High-risk Zone,19,Notified with Confirmation
+Mobile,"(15.556542, 80.000127)",No,Assault,5,In Progress,10-04-2024,07:02,Wednesday,Moderate-risk Zone,40,Notified with Confirmation
+Mobile,"(15.666312, 80.021284)",Yes,Teasing,21,Unresolved,11-03-2024,15:13,Monday,Moderate-risk Zone,29,Notified with Delay
+Panic Button Device,"(15.673784, 80.170049)",Yes,Assault,22,In Progress,01-05-2024,07:12,Wednesday,Moderate-risk Zone,37,Notified
+Mobile,"(15.563034, 80.124053)",No,Teasing,2,Resolved,10-09-2024,15:00,Tuesday,Safe Zone,45,Notified
+Mobile,"(15.641995, 80.139825)",Yes,Teasing,28,Unresolved,17-01-2024,13:32,Wednesday,High-risk Zone,28,Notified
+Mobile,"(15.57322, 80.038331)",Yes,Assault,29,Resolved,20-10-2024,10:41,Sunday,Safe Zone,19,Notified with Delay
+Panic Button Device,"(15.501799, 80.122115)",No,Teasing,19,In Progress,26-08-2024,02:37,Monday,High-risk Zone,42,Notified with Delay
+Mobile,"(15.504154, 80.196679)",No,Teasing,13,Unresolved,05-01-2024,07:39,Friday,Safe Zone,18,Notified
+Mobile,"(15.670686, 80.129456)",No,Assault,14,Resolved,05-10-2024,15:09,Saturday,Safe Zone,28,Notified with Delay
+Smartwatch,"(15.589489, 80.086902)",Yes,Assault,11,Resolved,15-02-2024,03:52,Thursday,Safe Zone,15,Notified with Delay
+Mobile,"(15.618234, 80.18591)",Yes,Assault,7,Resolved,29-10-2024,04:21,Tuesday,High-risk Zone,21,Notified with Delay
+Mobile,"(15.689962, 80.087333)",Yes,Teasing,24,Unresolved,31-05-2024,01:21,Friday,High-risk Zone,23,Notified with Confirmation
+Smartwatch,"(15.588089, 80.10585)",No,Assault,9,Unresolved,24-10-2024,18:52,Thursday,Safe Zone,15,Notified with Delay
+Panic Button Device,"(15.656812, 80.030936)",No,Assault,5,In Progress,08-04-2024,16:48,Monday,Moderate-risk Zone,37,Notified with Confirmation
+Smartwatch,"(15.564648, 80.180215)",Yes,Teasing,11,Resolved,10-12-2024,10:04,Tuesday,Safe Zone,29,Notified
+Panic Button Device,"(15.588654, 80.013756)",No,Teasing,25,Unresolved,13-04-2024,21:09,Saturday,Safe Zone,37,Notified with Confirmation
+Panic Button Device,"(15.534712, 80.122457)",Yes,Assault,28,Resolved,09-10-2024,22:30,Wednesday,Safe Zone,19,Notified
+Panic Button Device,"(15.605657, 80.172882)",No,Assault,4,Resolved,07-06-2024,18:00,Friday,Safe Zone,15,Notified
+Mobile,"(15.66363, 80.069484)",No,Assault,17,Unresolved,01-01-2024,08:55,Monday,High-risk Zone,42,Notified with Delay
+Panic Button Device,"(15.556138, 80.065965)",No,Assault,11,Resolved,02-07-2024,20:53,Tuesday,Moderate-risk Zone,35,Notified with Confirmation
+Panic Button Device,"(15.534609, 80.131344)",No,Teasing,24,Resolved,27-07-2024,22:30,Saturday,Safe Zone,42,Notified with Confirmation
+Mobile,"(15.654378, 80.001391)",Yes,Teasing,17,Unresolved,05-09-2024,11:21,Thursday,High-risk Zone,32,Notified with Delay
+Panic Button Device,"(15.596021, 80.092272)",Yes,Assault,6,Resolved,08-05-2024,01:56,Wednesday,Moderate-risk Zone,22,Notified with Confirmation
+Mobile,"(15.526757, 80.088806)",No,Assault,11,Unresolved,18-11-2024,07:06,Monday,High-risk Zone,35,Notified with Confirmation
+Panic Button Device,"(15.622284, 80.134558)",No,Teasing,17,Unresolved,17-06-2024,21:36,Monday,Moderate-risk Zone,32,Notified
+Smartwatch,"(15.661901, 80.065452)",Yes,Teasing,2,Unresolved,09-08-2024,15:55,Friday,Safe Zone,23,Notified
+Panic Button Device,"(15.582892, 80.016301)",Yes,Teasing,4,Resolved,04-12-2024,20:28,Wednesday,Safe Zone,32,Notified with Delay
+Smartwatch,"(15.663672, 80.074371)",No,Teasing,25,Unresolved,09-07-2024,20:30,Tuesday,Moderate-risk Zone,42,Notified with Confirmation
+Smartwatch,"(15.592167, 80.029434)",No,Assault,14,In Progress,11-08-2024,19:34,Sunday,Safe Zone,34,Notified
+Mobile,"(15.607765, 80.062939)",No,Assault,3,In Progress,26-09-2024,07:58,Thursday,High-risk Zone,30,Notified with Delay
+Mobile,"(15.580057, 80.144656)",No,Assault,29,Unresolved,20-10-2024,18:39,Sunday,Safe Zone,39,Notified with Confirmation
+Panic Button Device,"(15.658532, 80.199593)",Yes,Assault,20,Unresolved,03-05-2024,11:07,Friday,High-risk Zone,32,Notified with Delay
+Panic Button Device,"(15.668238, 80.136461)",No,Assault,15,Unresolved,24-02-2024,18:30,Saturday,High-risk Zone,33,Notified with Confirmation
+Mobile,"(15.62474, 80.02101)",Yes,Assault,28,Unresolved,15-11-2024,01:57,Friday,Safe Zone,42,Notified with Confirmation
+Panic Button Device,"(15.568384, 80.004764)",Yes,Assault,27,Resolved,05-09-2024,08:27,Thursday,Moderate-risk Zone,15,Notified
+Mobile,"(15.671687, 80.029649)",Yes,Teasing,23,Unresolved,05-06-2024,18:50,Wednesday,Moderate-risk Zone,28,Notified with Confirmation
+Mobile,"(15.604728, 80.010667)",Yes,Teasing,28,Unresolved,02-12-2024,02:33,Monday,Safe Zone,25,Notified with Confirmation
+Panic Button Device,"(15.665382, 80.140702)",Yes,Teasing,10,Unresolved,08-10-2024,00:36,Tuesday,Safe Zone,29,Notified with Confirmation
+Mobile,"(15.622767, 80.166833)",Yes,Assault,9,Unresolved,28-08-2024,12:28,Wednesday,Safe Zone,36,Notified
+Panic Button Device,"(15.629114, 80.10213)",Yes,Teasing,6,Unresolved,01-01-2024,13:23,Monday,High-risk Zone,35,Notified with Delay
+Smartwatch,"(15.528508, 80.164725)",No,Teasing,14,Resolved,06-07-2024,00:20,Saturday,Moderate-risk Zone,41,Notified with Confirmation
+Smartwatch,"(15.643735, 80.117918)",Yes,Assault,26,Resolved,23-08-2024,12:05,Friday,High-risk Zone,35,Notified with Confirmation
+Smartwatch,"(15.560591, 80.009821)",Yes,Teasing,24,Resolved,10-08-2024,11:35,Saturday,Safe Zone,31,Notified with Confirmation
+Panic Button Device,"(15.557978, 80.103233)",Yes,Teasing,14,Resolved,10-04-2024,05:39,Wednesday,Moderate-risk Zone,25,Notified with Delay
+Smartwatch,"(15.688619, 80.000093)",No,Assault,15,In Progress,17-12-2024,05:05,Tuesday,Moderate-risk Zone,45,Notified with Delay
+Mobile,"(15.561661, 80.165453)",Yes,Assault,28,In Progress,03-06-2024,21:22,Monday,Moderate-risk Zone,21,Notified with Confirmation
+Smartwatch,"(15.641439, 80.180366)",Yes,Teasing,22,In Progress,05-09-2024,09:35,Thursday,Moderate-risk Zone,41,Notified with Confirmation
+Panic Button Device,"(15.671857, 80.185121)",No,Teasing,11,In Progress,13-10-2024,04:06,Sunday,High-risk Zone,17,Notified with Delay
+Panic Button Device,"(15.699566, 80.123291)",Yes,Teasing,4,Unresolved,21-10-2024,08:05,Monday,Safe Zone,28,Notified with Delay
+Panic Button Device,"(15.642847, 80.076738)",Yes,Teasing,10,In Progress,04-09-2024,07:24,Wednesday,Moderate-risk Zone,45,Notified with Confirmation
+Smartwatch,"(15.637701, 80.195827)",Yes,Assault,20,In Progress,28-04-2024,23:08,Sunday,Safe Zone,28,Notified with Confirmation
+Mobile,"(15.562697, 80.054357)",No,Assault,5,Resolved,27-12-2024,05:04,Friday,Safe Zone,38,Notified with Confirmation
+Panic Button Device,"(15.528145, 80.134969)",Yes,Assault,30,Resolved,06-04-2024,10:42,Saturday,Safe Zone,28,Notified with Delay
+Mobile,"(15.668678, 80.142483)",No,Assault,19,Unresolved,22-06-2024,14:38,Saturday,Moderate-risk Zone,34,Notified
+Mobile,"(15.525972, 80.074342)",Yes,Assault,3,In Progress,26-12-2024,02:16,Thursday,Moderate-risk Zone,44,Notified with Confirmation
+Mobile,"(15.577874, 80.095332)",Yes,Teasing,13,In Progress,28-06-2024,06:07,Friday,Moderate-risk Zone,34,Notified with Delay
+Mobile,"(15.51917, 80.194297)",Yes,Assault,21,In Progress,19-06-2024,07:30,Wednesday,High-risk Zone,28,Notified
+Smartwatch,"(15.622368, 80.185933)",No,Teasing,9,Unresolved,22-06-2024,21:08,Saturday,Moderate-risk Zone,25,Notified
+Smartwatch,"(15.594391, 80.053894)",Yes,Assault,23,Unresolved,04-09-2024,10:50,Wednesday,Moderate-risk Zone,25,Notified with Delay
+Smartwatch,"(15.669041, 80.073521)",Yes,Teasing,11,In Progress,14-02-2024,07:27,Wednesday,Safe Zone,30,Notified
+Mobile,"(15.553031, 80.052999)",Yes,Assault,7,Resolved,06-03-2024,02:10,Wednesday,Safe Zone,21,Notified with Delay
+Smartwatch,"(15.597553, 80.159783)",Yes,Assault,4,Resolved,23-01-2024,07:27,Tuesday,High-risk Zone,32,Notified with Delay
+Panic Button Device,"(15.574847, 80.174214)",Yes,Teasing,24,Unresolved,17-04-2024,17:59,Wednesday,High-risk Zone,15,Notified with Confirmation
+Smartwatch,"(15.634954, 80.079253)",Yes,Teasing,6,Resolved,20-11-2024,03:35,Wednesday,Safe Zone,27,Notified
+Mobile,"(15.576892, 80.183139)",No,Assault,16,Unresolved,13-03-2024,16:24,Wednesday,Moderate-risk Zone,25,Notified with Delay
+Mobile,"(15.642731, 80.198699)",No,Assault,25,Resolved,07-11-2024,04:58,Thursday,Safe Zone,32,Notified with Delay
+Smartwatch,"(15.599376, 80.125579)",No,Assault,4,In Progress,10-08-2024,20:43,Saturday,Moderate-risk Zone,44,Notified with Delay
+Mobile,"(15.668307, 80.17991)",No,Teasing,23,Resolved,03-05-2024,15:29,Friday,Moderate-risk Zone,39,Notified
+Mobile,"(15.578419, 80.055919)",No,Teasing,11,Resolved,28-02-2024,00:51,Wednesday,Safe Zone,33,Notified
+Mobile,"(15.530951, 80.109219)",Yes,Assault,18,Unresolved,14-06-2024,13:21,Friday,High-risk Zone,25,Notified with Confirmation
+Panic Button Device,"(15.698193, 80.065348)",No,Teasing,7,Unresolved,02-10-2024,11:32,Wednesday,High-risk Zone,22,Notified with Confirmation
+Mobile,"(15.696479, 80.135133)",Yes,Teasing,14,Resolved,11-12-2024,04:29,Wednesday,Safe Zone,23,Notified
+Panic Button Device,"(15.576274, 80.071176)",No,Assault,27,Resolved,25-08-2024,03:19,Sunday,Safe Zone,37,Notified with Confirmation
+Smartwatch,"(15.55928, 80.131043)",No,Teasing,23,In Progress,15-03-2024,18:34,Friday,High-risk Zone,17,Notified with Confirmation
+Smartwatch,"(15.573025, 80.197519)",Yes,Teasing,30,Unresolved,08-07-2024,03:25,Monday,Moderate-risk Zone,42,Notified
+Mobile,"(15.667901, 80.155964)",Yes,Assault,23,In Progress,29-06-2024,18:05,Saturday,Safe Zone,27,Notified with Confirmation
+Mobile,"(15.598185, 80.053709)",No,Assault,8,In Progress,04-04-2024,02:22,Thursday,Safe Zone,30,Notified with Confirmation
+Mobile,"(15.645054, 80.09346)",No,Teasing,9,In Progress,31-07-2024,17:06,Wednesday,Safe Zone,33,Notified with Delay
+Smartwatch,"(15.592608, 80.037236)",No,Teasing,19,In Progress,22-10-2024,06:13,Tuesday,Moderate-risk Zone,22,Notified with Confirmation
+Smartwatch,"(15.572093, 80.046497)",Yes,Assault,14,Resolved,22-03-2024,14:47,Friday,Safe Zone,25,Notified with Delay
+Panic Button Device,"(15.594541, 80.000491)",No,Assault,3,Resolved,24-09-2024,18:42,Tuesday,High-risk Zone,35,Notified with Confirmation
+Smartwatch,"(15.678232, 80.005742)",Yes,Teasing,12,In Progress,16-08-2024,16:52,Friday,High-risk Zone,25,Notified with Delay
+Mobile,"(15.688781, 80.065726)",Yes,Teasing,14,Resolved,09-10-2024,02:38,Wednesday,Safe Zone,42,Notified with Confirmation
+Panic Button Device,"(15.611175, 80.146227)",Yes,Teasing,11,Unresolved,01-05-2024,16:25,Wednesday,Safe Zone,25,Notified
+Smartwatch,"(15.698253, 80.046804)",Yes,Teasing,25,Unresolved,22-03-2024,11:19,Friday,Safe Zone,27,Notified with Delay
+Smartwatch,"(15.679204, 80.072974)",Yes,Teasing,11,Unresolved,13-11-2024,18:56,Wednesday,Safe Zone,32,Notified with Confirmation
+Panic Button Device,"(15.506829, 80.11312)",Yes,Teasing,14,Unresolved,26-12-2024,10:52,Thursday,Moderate-risk Zone,37,Notified with Delay
+Smartwatch,"(15.584448, 80.08512)",Yes,Assault,6,In Progress,27-10-2024,22:52,Sunday,Moderate-risk Zone,24,Notified with Confirmation
+Panic Button Device,"(15.658194, 80.059448)",Yes,Teasing,17,Resolved,18-04-2024,09:53,Thursday,Safe Zone,34,Notified with Confirmation
+Panic Button Device,"(15.519722, 80.104042)",Yes,Assault,24,Resolved,05-07-2024,21:18,Friday,High-risk Zone,44,Notified with Delay
+Panic Button Device,"(15.552429, 80.143537)",Yes,Assault,28,Unresolved,27-06-2024,09:52,Thursday,Safe Zone,25,Notified with Confirmation
+Mobile,"(15.665757, 80.029191)",No,Assault,25,In Progress,31-08-2024,01:15,Saturday,High-risk Zone,20,Notified
+Panic Button Device,"(15.602723, 80.12792)",No,Assault,19,Resolved,17-01-2024,22:03,Wednesday,Moderate-risk Zone,31,Notified with Confirmation
+Smartwatch,"(15.528278, 80.104929)",No,Teasing,4,Unresolved,23-04-2024,02:55,Tuesday,Safe Zone,23,Notified
+Smartwatch,"(15.543587, 80.133768)",No,Assault,7,In Progress,23-09-2024,11:17,Monday,Moderate-risk Zone,23,Notified with Delay
+Mobile,"(15.631784, 80.079332)",No,Assault,10,Unresolved,17-12-2024,23:36,Tuesday,High-risk Zone,33,Notified with Confirmation
+Smartwatch,"(15.519423, 80.169365)",No,Teasing,11,In Progress,14-01-2024,07:26,Sunday,High-risk Zone,17,Notified
+Panic Button Device,"(15.668009, 80.025328)",Yes,Teasing,24,Unresolved,23-05-2024,04:08,Thursday,Moderate-risk Zone,41,Notified with Delay
+Mobile,"(15.533888, 80.050499)",No,Teasing,5,In Progress,30-04-2024,19:56,Tuesday,Safe Zone,36,Notified with Delay
+Panic Button Device,"(15.66851, 80.16022)",Yes,Teasing,28,Resolved,22-09-2024,16:24,Sunday,Safe Zone,27,Notified with Confirmation
+Smartwatch,"(15.549644, 80.043265)",Yes,Assault,28,Resolved,14-09-2024,06:36,Saturday,Moderate-risk Zone,41,Notified
+Smartwatch,"(15.687058, 80.093442)",Yes,Assault,21,In Progress,16-12-2024,05:57,Monday,Moderate-risk Zone,19,Notified
+Panic Button Device,"(15.628361, 80.100204)",No,Teasing,16,Unresolved,15-09-2024,15:39,Sunday,High-risk Zone,43,Notified
+Panic Button Device,"(15.560974, 80.004127)",No,Assault,16,Unresolved,13-02-2024,12:25,Tuesday,Safe Zone,30,Notified
+Smartwatch,"(15.607132, 80.170297)",No,Assault,21,Unresolved,20-11-2024,07:17,Wednesday,High-risk Zone,18,Notified with Confirmation
+Panic Button Device,"(15.505349, 80.118695)",Yes,Assault,22,Unresolved,24-01-2024,09:40,Wednesday,Safe Zone,29,Notified with Confirmation
+Panic Button Device,"(15.655887, 80.117116)",No,Assault,12,In Progress,12-12-2024,06:10,Thursday,High-risk Zone,34,Notified with Confirmation
+Mobile,"(15.643322, 80.050031)",Yes,Assault,30,Unresolved,05-07-2024,00:49,Friday,Safe Zone,35,Notified with Confirmation
+Smartwatch,"(15.551128, 80.009411)",No,Teasing,5,In Progress,26-04-2024,13:46,Friday,High-risk Zone,34,Notified
+Panic Button Device,"(15.638303, 80.077733)",Yes,Assault,19,In Progress,25-11-2024,08:03,Monday,High-risk Zone,26,Notified
+Panic Button Device,"(15.602271, 80.002802)",Yes,Teasing,28,Unresolved,08-09-2024,16:10,Sunday,High-risk Zone,23,Notified with Confirmation
+Panic Button Device,"(15.699985, 80.071706)",Yes,Teasing,21,Unresolved,10-06-2024,18:35,Monday,High-risk Zone,17,Notified with Confirmation
+Smartwatch,"(15.670538, 80.067757)",Yes,Teasing,28,Unresolved,16-02-2024,03:41,Friday,High-risk Zone,16,Notified with Confirmation
+Mobile,"(15.662711, 80.064174)",No,Assault,4,Unresolved,27-01-2024,19:18,Saturday,Moderate-risk Zone,41,Notified
+Mobile,"(15.541473, 80.127013)",Yes,Assault,16,Unresolved,11-01-2024,16:56,Thursday,Safe Zone,16,Notified with Delay
+Smartwatch,"(15.697081, 80.038307)",Yes,Teasing,14,Resolved,25-04-2024,18:28,Thursday,Moderate-risk Zone,44,Notified
+Panic Button Device,"(15.520091, 80.047232)",No,Assault,14,Unresolved,25-01-2024,02:38,Thursday,High-risk Zone,21,Notified with Confirmation
+Mobile,"(15.657032, 80.150914)",No,Assault,12,Resolved,19-07-2024,21:17,Friday,Safe Zone,38,Notified with Delay
+Mobile,"(15.555133, 80.169456)",No,Assault,12,Resolved,31-10-2024,18:15,Thursday,High-risk Zone,36,Notified
+Panic Button Device,"(15.650697, 80.198085)",No,Assault,3,Unresolved,29-03-2024,16:51,Friday,High-risk Zone,42,Notified with Confirmation
+Panic Button Device,"(15.566867, 80.10563)",Yes,Assault,22,In Progress,02-06-2024,14:38,Sunday,Safe Zone,42,Notified with Confirmation
+Smartwatch,"(15.650977, 80.141968)",No,Assault,5,In Progress,22-08-2024,18:05,Thursday,Moderate-risk Zone,20,Notified with Confirmation
+Panic Button Device,"(15.53284, 80.046229)",No,Assault,29,Resolved,05-07-2024,18:03,Friday,High-risk Zone,20,Notified with Delay
+Mobile,"(15.514826, 80.008044)",No,Teasing,9,Resolved,20-02-2024,02:23,Tuesday,Moderate-risk Zone,20,Notified with Delay
+Panic Button Device,"(15.503108, 80.033615)",Yes,Assault,17,Unresolved,24-03-2024,04:38,Sunday,Moderate-risk Zone,42,Notified with Delay
+Panic Button Device,"(15.536277, 80.179235)",No,Assault,27,Unresolved,28-06-2024,05:55,Friday,Safe Zone,30,Notified
+Panic Button Device,"(15.623571, 80.10593)",No,Assault,21,Unresolved,08-05-2024,13:55,Wednesday,High-risk Zone,17,Notified with Delay
+Mobile,"(15.699139, 80.148773)",No,Assault,16,Resolved,06-04-2024,09:12,Saturday,Safe Zone,38,Notified with Delay
+Mobile,"(15.675215, 80.149631)",Yes,Assault,30,Unresolved,16-11-2024,17:05,Saturday,Safe Zone,41,Notified with Delay
+Smartwatch,"(15.687759, 80.021077)",Yes,Teasing,10,Resolved,13-06-2024,03:56,Thursday,High-risk Zone,24,Notified
+Mobile,"(15.601027, 80.098503)",No,Teasing,18,Resolved,18-01-2024,10:36,Thursday,High-risk Zone,16,Notified
+Panic Button Device,"(15.649142, 80.015561)",No,Assault,28,Unresolved,10-05-2024,17:08,Friday,Moderate-risk Zone,19,Notified with Delay
+Mobile,"(15.573331, 80.113559)",No,Assault,16,Unresolved,25-09-2024,12:13,Wednesday,Safe Zone,43,Notified with Confirmation
+Panic Button Device,"(15.573634, 80.057974)",No,Teasing,16,Unresolved,27-03-2024,14:06,Wednesday,Moderate-risk Zone,21,Notified
+Mobile,"(15.697146, 80.06389)",No,Assault,19,Unresolved,19-06-2024,05:01,Wednesday,High-risk Zone,15,Notified
+Smartwatch,"(15.577248, 80.104082)",Yes,Assault,29,In Progress,08-08-2024,07:33,Thursday,Safe Zone,27,Notified with Confirmation
+Panic Button Device,"(15.649479, 80.008441)",Yes,Teasing,7,Resolved,19-03-2024,00:58,Tuesday,Moderate-risk Zone,44,Notified with Delay
+Mobile,"(15.603436, 80.195065)",Yes,Teasing,21,Unresolved,10-03-2024,18:44,Sunday,High-risk Zone,42,Notified with Confirmation
+Panic Button Device,"(15.608935, 80.120926)",Yes,Teasing,28,In Progress,03-12-2024,07:11,Tuesday,High-risk Zone,45,Notified with Confirmation
+Mobile,"(15.576998, 80.016087)",No,Assault,6,In Progress,16-07-2024,20:09,Tuesday,Safe Zone,15,Notified with Confirmation
+Mobile,"(15.502603, 80.03874)",No,Assault,25,In Progress,03-02-2024,04:38,Saturday,Moderate-risk Zone,19,Notified
+Panic Button Device,"(15.599966, 80.139486)",Yes,Teasing,17,Unresolved,27-08-2024,14:38,Tuesday,Safe Zone,23,Notified with Confirmation
+Panic Button Device,"(15.645346, 80.077388)",Yes,Teasing,14,Resolved,25-07-2024,21:45,Thursday,Safe Zone,30,Notified with Confirmation
+Smartwatch,"(15.679913, 80.060013)",No,Teasing,17,Unresolved,05-07-2024,06:56,Friday,Safe Zone,19,Notified
+Panic Button Device,"(15.503142, 80.176167)",Yes,Teasing,16,In Progress,23-07-2024,01:18,Tuesday,High-risk Zone,21,Notified
+Mobile,"(15.691673, 80.192673)",No,Teasing,6,Resolved,20-01-2024,17:09,Saturday,Safe Zone,39,Notified with Confirmation
+Mobile,"(15.576776, 80.03616)",No,Teasing,18,Unresolved,09-02-2024,01:13,Friday,Moderate-risk Zone,34,Notified with Confirmation
+Smartwatch,"(15.505037, 80.126773)",No,Assault,23,Resolved,11-03-2024,16:37,Monday,Moderate-risk Zone,39,Notified with Delay
+Panic Button Device,"(15.582645, 80.188449)",Yes,Teasing,19,Resolved,12-11-2024,14:08,Tuesday,Safe Zone,34,Notified with Confirmation
+Panic Button Device,"(15.61171, 80.170201)",Yes,Assault,14,Resolved,22-03-2024,17:28,Friday,High-risk Zone,38,Notified with Delay
+Mobile,"(15.667465, 80.093376)",Yes,Assault,20,Unresolved,04-12-2024,22:31,Wednesday,Safe Zone,42,Notified with Confirmation
+Smartwatch,"(15.592813, 80.02397)",No,Assault,13,Resolved,30-10-2024,09:12,Wednesday,Moderate-risk Zone,30,Notified with Delay
+Panic Button Device,"(15.695879, 80.094264)",Yes,Assault,9,Unresolved,20-04-2024,06:28,Saturday,Safe Zone,31,Notified with Confirmation
+Smartwatch,"(15.567648, 80.022442)",Yes,Assault,8,In Progress,21-02-2024,05:07,Wednesday,High-risk Zone,18,Notified with Confirmation
+Smartwatch,"(15.630853, 80.005358)",Yes,Teasing,14,In Progress,22-09-2024,14:27,Sunday,Moderate-risk Zone,27,Notified
+Smartwatch,"(15.552636, 80.06101)",Yes,Teasing,10,Resolved,10-10-2024,10:15,Thursday,Moderate-risk Zone,21,Notified with Confirmation
+Mobile,"(15.52747, 80.145922)",Yes,Teasing,21,In Progress,31-12-2024,00:02,Tuesday,Moderate-risk Zone,42,Notified with Delay
+Panic Button Device,"(15.561955, 80.127128)",Yes,Assault,20,Unresolved,07-09-2024,11:36,Saturday,High-risk Zone,32,Notified with Confirmation
+Mobile,"(15.555234, 80.050816)",No,Teasing,12,In Progress,29-01-2024,16:50,Monday,Moderate-risk Zone,26,Notified with Confirmation
+Mobile,"(15.584738, 80.136014)",No,Assault,14,Unresolved,21-11-2024,16:42,Thursday,Moderate-risk Zone,27,Notified with Confirmation
+Mobile,"(15.646015, 80.038825)",No,Assault,26,Resolved,03-11-2024,20:34,Sunday,High-risk Zone,15,Notified
+Smartwatch,"(15.501443, 80.15078)",Yes,Teasing,4,In Progress,30-07-2024,13:28,Tuesday,High-risk Zone,31,Notified
+Smartwatch,"(15.53653, 80.18868)",Yes,Assault,26,Unresolved,15-08-2024,18:49,Thursday,Safe Zone,41,Notified with Confirmation
+Mobile,"(15.644968, 80.119954)",No,Teasing,28,Unresolved,18-02-2024,08:12,Sunday,Moderate-risk Zone,36,Notified with Delay
+Panic Button Device,"(15.695532, 80.118082)",No,Assault,8,In Progress,22-02-2024,09:48,Thursday,High-risk Zone,23,Notified
+Panic Button Device,"(15.669303, 80.113528)",Yes,Teasing,10,Unresolved,05-09-2024,04:16,Thursday,Safe Zone,26,Notified with Delay
+Smartwatch,"(15.641441, 80.043127)",Yes,Teasing,12,In Progress,03-05-2024,00:52,Friday,Safe Zone,42,Notified
+Smartwatch,"(15.53303, 80.101191)",No,Assault,11,Resolved,03-07-2024,00:13,Wednesday,High-risk Zone,26,Notified with Confirmation
+Panic Button Device,"(15.552806, 80.124648)",Yes,Assault,4,Unresolved,12-12-2024,08:49,Thursday,Moderate-risk Zone,42,Notified with Confirmation
+Mobile,"(15.64607, 80.002143)",No,Teasing,24,Resolved,28-04-2024,03:38,Sunday,Moderate-risk Zone,22,Notified with Confirmation
+Smartwatch,"(15.568125, 80.184318)",No,Assault,23,Resolved,18-05-2024,22:50,Saturday,Moderate-risk Zone,40,Notified with Delay
+Panic Button Device,"(15.507023, 80.192618)",Yes,Assault,24,Unresolved,04-06-2024,16:06,Tuesday,High-risk Zone,41,Notified with Delay
+Panic Button Device,"(15.569741, 80.024918)",Yes,Assault,10,In Progress,07-08-2024,15:09,Wednesday,Safe Zone,41,Notified with Delay
+Mobile,"(15.5533, 80.097037)",No,Teasing,22,Unresolved,21-03-2024,10:29,Thursday,High-risk Zone,21,Notified with Delay
+Panic Button Device,"(15.656947, 80.120519)",Yes,Assault,23,Unresolved,21-04-2024,16:04,Sunday,Moderate-risk Zone,28,Notified with Delay
+Smartwatch,"(15.52735, 80.108486)",No,Assault,19,Unresolved,18-01-2024,01:43,Thursday,Moderate-risk Zone,18,Notified with Delay
+Smartwatch,"(15.603625, 80.070044)",No,Assault,4,In Progress,08-08-2024,19:20,Thursday,High-risk Zone,44,Notified
+Smartwatch,"(15.632316, 80.030116)",Yes,Teasing,22,Resolved,25-09-2024,19:42,Wednesday,High-risk Zone,24,Notified with Confirmation
+Mobile,"(15.531285, 80.149548)",No,Teasing,4,Resolved,02-05-2024,15:41,Thursday,Moderate-risk Zone,31,Notified with Delay
+Smartwatch,"(15.639281, 80.039651)",Yes,Teasing,20,In Progress,26-03-2024,21:09,Tuesday,Safe Zone,29,Notified with Confirmation
+Smartwatch,"(15.635507, 80.029395)",Yes,Assault,29,In Progress,01-09-2024,14:27,Sunday,Moderate-risk Zone,33,Notified with Confirmation
+Mobile,"(15.636383, 80.119243)",No,Teasing,26,Unresolved,24-05-2024,02:32,Friday,Moderate-risk Zone,36,Notified with Confirmation
+Panic Button Device,"(15.520271, 80.189751)",No,Teasing,30,Resolved,30-01-2024,03:26,Tuesday,High-risk Zone,40,Notified with Confirmation
+Panic Button Device,"(15.59648, 80.128585)",No,Assault,5,In Progress,10-08-2024,23:50,Saturday,Safe Zone,39,Notified
+Mobile,"(15.577417, 80.016736)",No,Assault,18,Resolved,06-01-2024,05:41,Saturday,Moderate-risk Zone,32,Notified
+Mobile,"(15.664315, 80.159399)",Yes,Teasing,13,In Progress,24-01-2024,00:15,Wednesday,Moderate-risk Zone,44,Notified
+Smartwatch,"(15.678887, 80.112606)",Yes,Assault,6,In Progress,15-07-2024,09:47,Monday,Safe Zone,42,Notified with Confirmation
+Panic Button Device,"(15.629347, 80.161625)",Yes,Assault,2,Resolved,30-04-2024,04:39,Tuesday,Safe Zone,37,Notified
+Panic Button Device,"(15.62912, 80.042777)",Yes,Assault,2,Resolved,27-06-2024,19:52,Thursday,High-risk Zone,43,Notified
+Smartwatch,"(15.560132, 80.165136)",No,Assault,11,Unresolved,27-05-2024,01:09,Monday,Safe Zone,23,Notified with Confirmation
+Smartwatch,"(15.51253, 80.056902)",No,Teasing,29,In Progress,13-05-2024,09:03,Monday,High-risk Zone,38,Notified with Confirmation
+Panic Button Device,"(15.520901, 80.009672)",Yes,Teasing,8,Unresolved,25-06-2024,13:54,Tuesday,High-risk Zone,43,Notified
+Panic Button Device,"(15.54217, 80.154214)",No,Assault,28,Resolved,02-04-2024,19:59,Tuesday,High-risk Zone,21,Notified
+Mobile,"(15.578833, 80.117076)",Yes,Teasing,18,Resolved,31-03-2024,21:24,Sunday,High-risk Zone,20,Notified
+Mobile,"(15.606113, 80.083401)",No,Teasing,16,Unresolved,06-06-2024,03:12,Thursday,Safe Zone,35,Notified with Confirmation
+Mobile,"(15.566125, 80.020441)",No,Assault,28,Resolved,05-08-2024,21:15,Monday,Moderate-risk Zone,19,Notified with Delay
+Mobile,"(15.657874, 80.10139)",Yes,Assault,29,Unresolved,12-10-2024,09:00,Saturday,Moderate-risk Zone,30,Notified with Delay
+Panic Button Device,"(15.58406, 80.052155)",No,Teasing,12,In Progress,07-02-2024,10:33,Wednesday,High-risk Zone,40,Notified
+Smartwatch,"(15.658121, 80.077104)",No,Teasing,3,Unresolved,12-09-2024,07:53,Thursday,Safe Zone,31,Notified
+Smartwatch,"(15.631285, 80.176389)",Yes,Assault,28,In Progress,30-10-2024,15:29,Wednesday,Safe Zone,34,Notified with Delay
+Smartwatch,"(15.613987, 80.04236)",No,Teasing,6,In Progress,20-04-2024,07:11,Saturday,Moderate-risk Zone,35,Notified
+Panic Button Device,"(15.573612, 80.118076)",Yes,Assault,15,Unresolved,10-02-2024,16:35,Saturday,Moderate-risk Zone,35,Notified with Delay
+Smartwatch,"(15.524919, 80.185602)",Yes,Teasing,22,Resolved,15-02-2024,14:50,Thursday,High-risk Zone,22,Notified with Delay
+Mobile,"(15.533708, 80.0353)",No,Assault,26,Resolved,24-08-2024,10:12,Saturday,Moderate-risk Zone,21,Notified with Confirmation
+Smartwatch,"(15.689897, 80.170269)",No,Teasing,30,Unresolved,02-06-2024,16:03,Sunday,Safe Zone,27,Notified
+Panic Button Device,"(15.585827, 80.154292)",Yes,Teasing,4,Resolved,25-03-2024,21:42,Monday,Moderate-risk Zone,41,Notified with Confirmation
+Smartwatch,"(15.530568, 80.095833)",No,Assault,27,Unresolved,16-12-2024,12:03,Monday,Safe Zone,26,Notified
+Mobile,"(15.622586, 80.015499)",Yes,Assault,2,In Progress,15-04-2024,04:01,Monday,Moderate-risk Zone,43,Notified with Confirmation
+Panic Button Device,"(15.544594, 80.147054)",No,Assault,5,Resolved,06-08-2024,10:45,Tuesday,Moderate-risk Zone,33,Notified with Delay
+Mobile,"(15.532948, 80.065433)",Yes,Assault,26,Unresolved,01-11-2024,10:56,Friday,Moderate-risk Zone,27,Notified with Confirmation
+Smartwatch,"(15.621452, 80.049781)",No,Teasing,6,Unresolved,22-11-2024,06:54,Friday,Safe Zone,33,Notified with Confirmation
+Panic Button Device,"(15.547375, 80.015536)",No,Teasing,7,Unresolved,18-03-2024,04:55,Monday,High-risk Zone,44,Notified with Delay
+Mobile,"(15.592227, 80.11515)",Yes,Assault,29,In Progress,25-02-2024,18:16,Sunday,Moderate-risk Zone,43,Notified
+Smartwatch,"(15.561685, 80.178208)",Yes,Teasing,23,Unresolved,17-02-2024,10:29,Saturday,Moderate-risk Zone,16,Notified with Delay
+Panic Button Device,"(15.564656, 80.135926)",Yes,Teasing,3,In Progress,27-08-2024,19:26,Tuesday,Safe Zone,45,Notified with Delay
+Panic Button Device,"(15.512698, 80.176485)",Yes,Assault,30,In Progress,24-05-2024,22:28,Friday,Moderate-risk Zone,44,Notified
+Panic Button Device,"(15.522136, 80.179592)",Yes,Teasing,27,Resolved,01-05-2024,01:06,Wednesday,High-risk Zone,31,Notified
+Panic Button Device,"(15.543818, 80.093601)",No,Teasing,11,Unresolved,05-05-2024,12:12,Sunday,Safe Zone,40,Notified with Confirmation
+Panic Button Device,"(15.687352, 80.089128)",Yes,Teasing,19,Resolved,18-12-2024,01:31,Wednesday,Safe Zone,26,Notified with Confirmation
+Panic Button Device,"(15.610505, 80.166813)",No,Assault,7,In Progress,21-01-2024,21:54,Sunday,Moderate-risk Zone,27,Notified with Confirmation
+Smartwatch,"(15.631725, 80.14787)",Yes,Assault,22,Resolved,09-06-2024,22:07,Sunday,Safe Zone,23,Notified with Delay
+Mobile,"(15.575309, 80.19225)",No,Teasing,3,Resolved,08-07-2024,21:39,Monday,Safe Zone,22,Notified
+Panic Button Device,"(15.598982, 80.199052)",Yes,Teasing,24,In Progress,04-08-2024,11:04,Sunday,High-risk Zone,28,Notified with Delay
+Smartwatch,"(15.674962, 80.14405)",No,Teasing,21,In Progress,13-06-2024,14:07,Thursday,High-risk Zone,20,Notified with Delay
+Panic Button Device,"(15.635941, 80.063775)",Yes,Assault,3,In Progress,12-05-2024,18:46,Sunday,Safe Zone,45,Notified with Confirmation
+Mobile,"(15.539567, 80.127664)",Yes,Teasing,29,Unresolved,12-12-2024,19:26,Thursday,Safe Zone,26,Notified
+Mobile,"(15.680336, 80.088469)",No,Teasing,28,In Progress,13-07-2024,11:23,Saturday,High-risk Zone,15,Notified with Confirmation
+Panic Button Device,"(15.621356, 80.082712)",No,Teasing,11,In Progress,23-04-2024,21:47,Tuesday,High-risk Zone,42,Notified
+Mobile,"(15.691351, 80.157454)",Yes,Teasing,17,In Progress,28-06-2024,11:29,Friday,Moderate-risk Zone,17,Notified with Delay
+Smartwatch,"(15.678351, 80.188212)",No,Assault,29,In Progress,09-09-2024,08:39,Monday,Moderate-risk Zone,29,Notified with Delay
+Panic Button Device,"(15.592483, 80.172727)",Yes,Teasing,22,Unresolved,23-08-2024,19:04,Friday,Moderate-risk Zone,34,Notified with Confirmation
+Smartwatch,"(15.523668, 80.114305)",Yes,Teasing,21,Resolved,30-10-2024,04:49,Wednesday,Moderate-risk Zone,15,Notified with Confirmation
+Panic Button Device,"(15.574428, 80.171239)",No,Teasing,11,Unresolved,15-11-2024,20:24,Friday,Safe Zone,45,Notified
+Smartwatch,"(15.694226, 80.003426)",Yes,Assault,14,Resolved,07-10-2024,04:06,Monday,High-risk Zone,20,Notified with Delay
+Panic Button Device,"(15.544962, 80.176407)",Yes,Teasing,9,Resolved,26-04-2024,08:41,Friday,Safe Zone,24,Notified with Delay
+Panic Button Device,"(15.625202, 80.014981)",No,Teasing,18,Resolved,09-08-2024,21:24,Friday,High-risk Zone,31,Notified with Delay
+Mobile,"(15.682624, 80.187998)",Yes,Teasing,25,Resolved,29-04-2024,19:38,Monday,Safe Zone,26,Notified
+Smartwatch,"(15.652987, 80.109116)",No,Teasing,20,In Progress,03-03-2024,10:19,Sunday,High-risk Zone,15,Notified with Confirmation
+Mobile,"(15.615005, 80.139834)",No,Assault,20,In Progress,21-04-2024,12:15,Sunday,High-risk Zone,25,Notified with Confirmation
+Panic Button Device,"(15.678806, 80.15396)",No,Teasing,6,Resolved,27-11-2024,20:27,Wednesday,Safe Zone,21,Notified
+Panic Button Device,"(15.502909, 80.02416)",No,Assault,3,Unresolved,18-11-2024,09:19,Monday,Safe Zone,27,Notified with Confirmation
+Smartwatch,"(15.580031, 80.032994)",Yes,Teasing,20,Unresolved,14-04-2024,05:23,Sunday,Safe Zone,20,Notified with Delay
+Smartwatch,"(15.55256, 80.197599)",No,Assault,24,Resolved,11-01-2024,00:33,Thursday,High-risk Zone,45,Notified
+Panic Button Device,"(15.569246, 80.129234)",No,Teasing,28,Resolved,19-05-2024,08:51,Sunday,Moderate-risk Zone,42,Notified with Confirmation
+Mobile,"(15.683635, 80.007873)",No,Assault,12,Unresolved,24-08-2024,08:20,Saturday,Moderate-risk Zone,19,Notified
+Smartwatch,"(15.690646, 80.146332)",Yes,Assault,11,Unresolved,12-04-2024,06:22,Friday,Moderate-risk Zone,16,Notified with Confirmation
+Smartwatch,"(15.655428, 80.175048)",No,Assault,5,Unresolved,01-01-2024,18:29,Monday,Safe Zone,43,Notified with Confirmation
+Mobile,"(15.549941, 80.068467)",Yes,Teasing,8,In Progress,20-09-2024,09:35,Friday,Moderate-risk Zone,15,Notified
+Smartwatch,"(15.587557, 80.034464)",No,Assault,5,Resolved,08-02-2024,00:17,Thursday,Safe Zone,29,Notified
+Mobile,"(15.579689, 80.199591)",No,Assault,25,Resolved,31-10-2024,09:09,Thursday,Moderate-risk Zone,41,Notified with Delay
+Panic Button Device,"(15.668178, 80.021559)",Yes,Teasing,28,Resolved,24-10-2024,20:24,Thursday,Moderate-risk Zone,36,Notified with Delay
+Panic Button Device,"(15.582427, 80.134898)",No,Assault,17,Unresolved,17-06-2024,06:27,Monday,Moderate-risk Zone,25,Notified with Confirmation
+Mobile,"(15.576519, 80.196437)",Yes,Teasing,14,In Progress,11-06-2024,21:03,Tuesday,Safe Zone,28,Notified
+Smartwatch,"(15.563293, 80.11763)",Yes,Teasing,6,Resolved,30-03-2024,01:19,Saturday,Safe Zone,15,Notified
+Smartwatch,"(15.619732, 80.073434)",Yes,Teasing,23,Resolved,13-07-2024,22:17,Saturday,High-risk Zone,39,Notified with Confirmation
+Smartwatch,"(15.662457, 80.028083)",Yes,Teasing,29,Resolved,20-05-2024,08:35,Monday,High-risk Zone,38,Notified
+Mobile,"(15.526679, 80.001338)",No,Assault,16,In Progress,11-08-2024,22:45,Sunday,High-risk Zone,27,Notified with Confirmation
+Mobile,"(15.697892, 80.112661)",Yes,Teasing,24,In Progress,26-10-2024,16:37,Saturday,High-risk Zone,40,Notified with Confirmation
+Smartwatch,"(15.583358, 80.142655)",No,Teasing,15,Resolved,27-08-2024,19:30,Tuesday,Safe Zone,34,Notified
+Mobile,"(15.57208, 80.164902)",No,Assault,24,In Progress,21-03-2024,11:26,Thursday,High-risk Zone,39,Notified
+Smartwatch,"(15.552433, 80.115374)",No,Teasing,5,Resolved,21-05-2024,13:11,Tuesday,High-risk Zone,25,Notified with Confirmation
+Panic Button Device,"(15.573888, 80.171691)",No,Teasing,5,Unresolved,26-08-2024,20:16,Monday,Moderate-risk Zone,33,Notified with Confirmation
+Mobile,"(15.689658, 80.097423)",Yes,Teasing,24,Resolved,26-03-2024,03:35,Tuesday,Safe Zone,44,Notified
+Mobile,"(15.675538, 80.093588)",Yes,Teasing,3,Unresolved,21-11-2024,02:45,Thursday,High-risk Zone,18,Notified with Delay
+Smartwatch,"(15.616319, 80.08087)",No,Teasing,10,Unresolved,07-12-2024,17:03,Saturday,Safe Zone,42,Notified with Confirmation
+Panic Button Device,"(15.592605, 80.1594)",Yes,Teasing,10,In Progress,02-07-2024,08:30,Tuesday,High-risk Zone,40,Notified with Confirmation
+Mobile,"(15.596808, 80.095569)",No,Assault,19,Resolved,23-10-2024,06:08,Wednesday,Moderate-risk Zone,29,Notified with Delay
+Smartwatch,"(15.666316, 80.082103)",No,Assault,7,In Progress,28-09-2024,15:53,Saturday,Safe Zone,34,Notified with Confirmation
+Smartwatch,"(15.669532, 80.035925)",No,Teasing,3,In Progress,14-11-2024,11:29,Thursday,High-risk Zone,15,Notified with Delay
+Mobile,"(15.583278, 80.083408)",Yes,Teasing,7,Unresolved,13-07-2024,21:16,Saturday,High-risk Zone,43,Notified with Confirmation
+Mobile,"(15.538568, 80.022409)",No,Teasing,10,Resolved,18-01-2024,20:16,Thursday,Safe Zone,36,Notified
+Smartwatch,"(15.682994, 80.009932)",Yes,Assault,29,Resolved,24-05-2024,21:32,Friday,Safe Zone,28,Notified with Delay
+Smartwatch,"(15.581897, 80.001835)",Yes,Assault,28,In Progress,30-08-2024,13:55,Friday,Moderate-risk Zone,17,Notified with Confirmation
+Mobile,"(15.512721, 80.091483)",No,Teasing,14,In Progress,22-02-2024,01:25,Thursday,Safe Zone,27,Notified with Delay
+Panic Button Device,"(15.544574, 80.107232)",Yes,Assault,2,In Progress,10-07-2024,21:40,Wednesday,Moderate-risk Zone,42,Notified with Confirmation
+Panic Button Device,"(15.523263, 80.167467)",No,Teasing,15,Unresolved,04-03-2024,21:46,Monday,Moderate-risk Zone,19,Notified
+Panic Button Device,"(15.643085, 80.135437)",Yes,Assault,9,Unresolved,04-09-2024,19:26,Wednesday,High-risk Zone,42,Notified with Confirmation
+Smartwatch,"(15.675535, 80.150821)",No,Teasing,8,Resolved,13-06-2024,14:50,Thursday,High-risk Zone,24,Notified with Delay
+Mobile,"(15.523329, 80.043357)",No,Assault,7,In Progress,22-01-2024,03:24,Monday,Moderate-risk Zone,21,Notified with Delay
+Mobile,"(15.547277, 80.14287)",Yes,Assault,20,Unresolved,13-11-2024,03:19,Wednesday,Moderate-risk Zone,36,Notified
+Panic Button Device,"(15.67051, 80.004729)",Yes,Teasing,21,In Progress,23-12-2024,07:18,Monday,Moderate-risk Zone,27,Notified with Confirmation
+Panic Button Device,"(15.529411, 80.145987)",No,Assault,3,In Progress,12-11-2024,06:37,Tuesday,Moderate-risk Zone,24,Notified with Delay
+Smartwatch,"(15.595464, 80.045256)",No,Assault,23,Unresolved,04-03-2024,03:53,Monday,Safe Zone,38,Notified with Confirmation
+Mobile,"(15.523955, 80.126039)",No,Teasing,17,In Progress,22-02-2024,18:30,Thursday,High-risk Zone,36,Notified with Delay
+Panic Button Device,"(15.64908, 80.06638)",Yes,Assault,13,In Progress,04-12-2024,20:58,Wednesday,High-risk Zone,43,Notified with Confirmation
+Mobile,"(15.674392, 80.039428)",Yes,Assault,21,Resolved,05-02-2024,06:05,Monday,High-risk Zone,22,Notified with Delay
+Smartwatch,"(15.538772, 80.107187)",No,Teasing,7,Unresolved,23-07-2024,14:55,Tuesday,Safe Zone,21,Notified
+Smartwatch,"(15.589903, 80.109687)",No,Assault,5,Resolved,20-09-2024,10:57,Friday,Safe Zone,18,Notified with Confirmation
+Panic Button Device,"(15.536037, 80.156185)",No,Teasing,19,In Progress,23-09-2024,03:21,Monday,High-risk Zone,38,Notified with Confirmation
+Panic Button Device,"(15.68287, 80.106105)",No,Teasing,20,Unresolved,22-06-2024,21:10,Saturday,Moderate-risk Zone,29,Notified with Delay
+Panic Button Device,"(15.559618, 80.122003)",No,Assault,13,Unresolved,08-07-2024,11:40,Monday,Safe Zone,20,Notified with Delay
+Smartwatch,"(15.600496, 80.046658)",No,Teasing,23,In Progress,13-08-2024,08:10,Tuesday,Moderate-risk Zone,35,Notified with Confirmation
+Mobile,"(15.577006, 80.159864)",Yes,Assault,27,Resolved,27-10-2024,03:43,Sunday,High-risk Zone,41,Notified with Confirmation
+Mobile,"(15.574502, 80.179685)",Yes,Teasing,19,Resolved,14-11-2024,17:15,Thursday,High-risk Zone,36,Notified with Delay
+Mobile,"(15.69828, 80.155758)",Yes,Teasing,2,Resolved,18-12-2024,03:51,Wednesday,Moderate-risk Zone,32,Notified
+Smartwatch,"(15.54529, 80.046598)",No,Teasing,16,In Progress,27-07-2024,07:53,Saturday,Moderate-risk Zone,31,Notified with Confirmation
+Smartwatch,"(15.613887, 80.031909)",No,Assault,24,Unresolved,22-07-2024,00:45,Monday,Safe Zone,25,Notified with Confirmation
+Mobile,"(15.543617, 80.140135)",No,Assault,21,Resolved,04-12-2024,09:13,Wednesday,Safe Zone,34,Notified with Confirmation
+Panic Button Device,"(15.502947, 80.062129)",Yes,Assault,8,In Progress,07-10-2024,17:47,Monday,Safe Zone,16,Notified with Confirmation
+Panic Button Device,"(15.678599, 80.028707)",No,Teasing,24,Unresolved,18-04-2024,15:56,Thursday,High-risk Zone,42,Notified
+Panic Button Device,"(15.569396, 80.188068)",Yes,Assault,7,Resolved,15-12-2024,04:28,Sunday,Safe Zone,44,Notified
+Panic Button Device,"(15.611806, 80.154503)",No,Teasing,11,Resolved,17-06-2024,13:42,Monday,High-risk Zone,19,Notified with Delay
+Smartwatch,"(15.693055, 80.055508)",Yes,Assault,3,Resolved,26-10-2024,02:58,Saturday,Safe Zone,19,Notified
+Panic Button Device,"(15.658853, 80.058735)",No,Teasing,5,Resolved,25-12-2024,13:07,Wednesday,Safe Zone,29,Notified
+Smartwatch,"(15.592211, 80.119913)",No,Teasing,28,Resolved,12-01-2024,06:57,Friday,High-risk Zone,43,Notified with Confirmation
+Smartwatch,"(15.570461, 80.05014)",Yes,Teasing,12,Unresolved,04-05-2024,06:15,Saturday,Safe Zone,28,Notified with Delay
+Panic Button Device,"(15.683612, 80.047827)",No,Assault,26,Resolved,03-01-2024,18:30,Wednesday,Moderate-risk Zone,24,Notified with Confirmation
+Panic Button Device,"(15.531081, 80.191136)",Yes,Assault,14,Resolved,06-11-2024,04:59,Wednesday,Moderate-risk Zone,45,Notified
+Panic Button Device,"(15.570686, 80.06515)",No,Teasing,19,Resolved,24-11-2024,18:16,Sunday,Moderate-risk Zone,32,Notified with Confirmation
+Smartwatch,"(15.536694, 80.061624)",No,Assault,7,In Progress,28-02-2024,23:19,Wednesday,High-risk Zone,31,Notified
+Mobile,"(15.647587, 80.171009)",Yes,Assault,21,Unresolved,12-12-2024,04:50,Thursday,High-risk Zone,44,Notified with Delay
+Panic Button Device,"(15.615507, 80.180351)",Yes,Assault,6,In Progress,11-09-2024,00:03,Wednesday,High-risk Zone,37,Notified with Confirmation
+Smartwatch,"(15.627347, 80.151999)",Yes,Assault,5,Unresolved,22-06-2024,17:16,Saturday,Safe Zone,43,Notified
+Panic Button Device,"(15.662911, 80.080567)",No,Teasing,7,In Progress,09-12-2024,08:11,Monday,High-risk Zone,26,Notified
+Panic Button Device,"(15.643696, 80.084363)",Yes,Assault,16,In Progress,23-05-2024,05:12,Thursday,Safe Zone,44,Notified with Delay
+Mobile,"(15.615874, 80.169574)",No,Assault,9,In Progress,12-07-2024,15:58,Friday,Moderate-risk Zone,18,Notified with Delay
+Smartwatch,"(15.605087, 80.076563)",No,Teasing,5,Unresolved,20-05-2024,09:32,Monday,Moderate-risk Zone,30,Notified
+Panic Button Device,"(15.65246, 80.048068)",No,Assault,9,Unresolved,04-08-2024,12:18,Sunday,High-risk Zone,20,Notified with Delay
+Panic Button Device,"(15.545983, 80.049294)",Yes,Assault,6,Resolved,23-04-2024,20:06,Tuesday,Moderate-risk Zone,38,Notified with Delay
+Smartwatch,"(15.653141, 80.100297)",Yes,Teasing,22,In Progress,01-06-2024,11:21,Saturday,Safe Zone,16,Notified with Confirmation
+Smartwatch,"(15.532536, 80.175807)",No,Assault,16,Resolved,22-10-2024,17:49,Tuesday,High-risk Zone,37,Notified
+Panic Button Device,"(15.580109, 80.019834)",Yes,Teasing,17,In Progress,16-03-2024,15:58,Saturday,High-risk Zone,24,Notified with Confirmation
+Panic Button Device,"(15.658507, 80.156518)",No,Teasing,6,Unresolved,12-08-2024,10:45,Monday,Safe Zone,34,Notified with Confirmation
+Panic Button Device,"(15.532724, 80.159133)",Yes,Assault,2,Unresolved,14-09-2024,15:28,Saturday,High-risk Zone,33,Notified with Delay
+Smartwatch,"(15.682664, 80.000986)",No,Assault,26,Unresolved,15-12-2024,21:03,Sunday,High-risk Zone,28,Notified with Confirmation
+Mobile,"(15.589398, 80.031156)",No,Assault,20,In Progress,01-08-2024,15:28,Thursday,High-risk Zone,23,Notified with Delay
+Smartwatch,"(15.669874, 80.14483)",No,Assault,23,Resolved,02-02-2024,06:22,Friday,Safe Zone,37,Notified with Confirmation
+Mobile,"(15.614548, 80.072305)",No,Teasing,7,Unresolved,20-12-2024,14:26,Friday,High-risk Zone,34,Notified with Delay
+Panic Button Device,"(15.692271, 80.113892)",No,Assault,5,In Progress,21-05-2024,19:03,Tuesday,High-risk Zone,25,Notified with Confirmation
+Smartwatch,"(15.529762, 80.062789)",Yes,Teasing,23,Resolved,05-05-2024,17:03,Sunday,Moderate-risk Zone,24,Notified
+Smartwatch,"(15.537707, 80.033684)",No,Teasing,22,Unresolved,05-03-2024,13:24,Tuesday,Safe Zone,38,Notified with Delay
+Panic Button Device,"(15.654886, 80.186884)",No,Teasing,23,Resolved,10-10-2024,06:10,Thursday,High-risk Zone,40,Notified with Delay
+Mobile,"(15.661917, 80.148332)",No,Assault,2,In Progress,16-10-2024,23:39,Wednesday,High-risk Zone,15,Notified
+Panic Button Device,"(15.529257, 80.002092)",No,Assault,12,Resolved,26-06-2024,20:57,Wednesday,High-risk Zone,33,Notified with Delay
+Mobile,"(15.655745, 80.107767)",Yes,Assault,23,In Progress,20-09-2024,23:39,Friday,Moderate-risk Zone,31,Notified with Confirmation
+Panic Button Device,"(15.56825, 80.074979)",No,Teasing,7,Resolved,27-08-2024,05:03,Tuesday,Moderate-risk Zone,30,Notified with Confirmation
+Panic Button Device,"(15.548327, 80.177919)",No,Assault,6,In Progress,31-01-2024,09:33,Wednesday,Safe Zone,32,Notified with Confirmation
+Panic Button Device,"(15.587405, 80.098688)",Yes,Assault,27,In Progress,28-04-2024,20:17,Sunday,Moderate-risk Zone,23,Notified
+Mobile,"(15.672518, 80.017171)",No,Teasing,14,Unresolved,30-01-2024,16:10,Tuesday,Moderate-risk Zone,18,Notified with Confirmation
+Smartwatch,"(15.640344, 80.043348)",Yes,Assault,23,Resolved,25-03-2024,10:18,Monday,High-risk Zone,37,Notified with Delay
+Mobile,"(15.630687, 80.155039)",Yes,Teasing,26,Unresolved,16-09-2024,08:05,Monday,High-risk Zone,38,Notified with Confirmation
+Smartwatch,"(15.509164, 80.126149)",No,Teasing,30,Unresolved,27-12-2024,11:21,Friday,High-risk Zone,41,Notified with Delay
+Smartwatch,"(15.504169, 80.04623)",Yes,Teasing,23,Resolved,13-11-2024,19:58,Wednesday,High-risk Zone,15,Notified
+Mobile,"(15.546901, 80.080244)",Yes,Assault,2,In Progress,17-03-2024,08:30,Sunday,High-risk Zone,28,Notified with Delay
+Smartwatch,"(15.684088, 80.050542)",Yes,Teasing,24,Resolved,24-06-2024,13:10,Monday,Safe Zone,37,Notified
+Mobile,"(15.584497, 80.027615)",Yes,Teasing,8,In Progress,08-03-2024,04:00,Friday,Moderate-risk Zone,27,Notified
+Smartwatch,"(15.519611, 80.033311)",No,Assault,11,In Progress,29-09-2024,17:54,Sunday,Moderate-risk Zone,38,Notified with Delay
+Panic Button Device,"(15.555584, 80.081147)",No,Teasing,8,Unresolved,14-10-2024,16:56,Monday,High-risk Zone,22,Notified with Delay
+Panic Button Device,"(15.524695, 80.053863)",Yes,Assault,7,Resolved,10-07-2024,05:30,Wednesday,Moderate-risk Zone,36,Notified
+Smartwatch,"(15.501497, 80.052813)",Yes,Teasing,5,Unresolved,07-04-2024,09:33,Sunday,Moderate-risk Zone,37,Notified with Confirmation
+Mobile,"(15.501863, 80.020404)",No,Teasing,4,Resolved,19-12-2024,06:11,Thursday,Moderate-risk Zone,35,Notified with Delay
+Panic Button Device,"(15.55495, 80.122955)",No,Assault,30,Resolved,06-01-2024,23:12,Saturday,High-risk Zone,32,Notified with Delay
+Panic Button Device,"(15.535697, 80.057228)",No,Assault,26,In Progress,11-03-2024,11:53,Monday,Moderate-risk Zone,26,Notified
+Smartwatch,"(15.516149, 80.184851)",No,Teasing,23,Resolved,27-01-2024,19:32,Saturday,High-risk Zone,27,Notified with Confirmation
+Smartwatch,"(15.596173, 80.096011)",Yes,Teasing,19,In Progress,30-07-2024,10:36,Tuesday,Moderate-risk Zone,35,Notified with Confirmation
+Mobile,"(15.691568, 80.122313)",Yes,Teasing,7,Resolved,28-08-2024,02:15,Wednesday,Moderate-risk Zone,24,Notified
+Panic Button Device,"(15.51387, 80.18002)",Yes,Assault,19,In Progress,23-02-2024,08:58,Friday,Moderate-risk Zone,36,Notified with Delay
+Smartwatch,"(15.612838, 80.009324)",No,Assault,6,Unresolved,31-10-2024,11:08,Thursday,High-risk Zone,40,Notified with Confirmation
+Panic Button Device,"(15.583428, 80.129492)",Yes,Assault,26,Resolved,15-01-2024,19:50,Monday,Safe Zone,25,Notified with Delay
+Mobile,"(15.511139, 80.029287)",Yes,Assault,11,Unresolved,17-10-2024,03:35,Thursday,High-risk Zone,31,Notified with Delay
+Smartwatch,"(15.582942, 80.065247)",Yes,Teasing,12,Resolved,07-02-2024,02:04,Wednesday,Safe Zone,41,Notified with Delay
+Mobile,"(15.651648, 80.08656)",Yes,Assault,22,Unresolved,15-04-2024,04:22,Monday,Safe Zone,33,Notified with Confirmation
+Smartwatch,"(15.599497, 80.194433)",No,Assault,19,Resolved,15-03-2024,01:28,Friday,Safe Zone,27,Notified
+Mobile,"(15.649436, 80.162967)",Yes,Teasing,8,In Progress,25-12-2024,08:06,Wednesday,Safe Zone,38,Notified with Delay
+Smartwatch,"(15.599036, 80.021381)",Yes,Assault,18,Unresolved,16-06-2024,02:05,Sunday,Moderate-risk Zone,44,Notified
+Panic Button Device,"(15.678803, 80.152969)",No,Teasing,23,Resolved,28-02-2024,01:44,Wednesday,Safe Zone,28,Notified
+Mobile,"(15.541883, 80.106849)",Yes,Teasing,13,In Progress,05-08-2024,03:06,Monday,High-risk Zone,27,Notified with Delay
+Smartwatch,"(15.527785, 80.133476)",No,Teasing,14,Unresolved,05-01-2024,18:04,Friday,Safe Zone,44,Notified with Confirmation
+Smartwatch,"(15.528629, 80.197174)",Yes,Teasing,30,Resolved,30-11-2024,04:33,Saturday,Moderate-risk Zone,19,Notified
+Panic Button Device,"(15.560383, 80.014058)",No,Assault,30,Resolved,24-11-2024,01:56,Sunday,Safe Zone,29,Notified
+Smartwatch,"(15.592291, 80.181827)",No,Teasing,21,Resolved,28-09-2024,04:01,Saturday,Moderate-risk Zone,29,Notified with Confirmation
+Mobile,"(15.584781, 80.02441)",No,Assault,8,Resolved,24-08-2024,00:51,Saturday,Safe Zone,43,Notified
+Panic Button Device,"(15.509797, 80.19851)",Yes,Assault,12,Unresolved,05-07-2024,10:04,Friday,Moderate-risk Zone,19,Notified with Delay
+Mobile,"(15.643975, 80.077043)",Yes,Assault,9,Resolved,07-01-2024,17:33,Sunday,Safe Zone,38,Notified with Delay
+Smartwatch,"(15.565853, 80.094578)",No,Assault,23,Unresolved,08-05-2024,21:12,Wednesday,Moderate-risk Zone,26,Notified
+Mobile,"(15.654372, 80.03833)",Yes,Teasing,29,In Progress,21-03-2024,16:00,Thursday,Moderate-risk Zone,24,Notified with Confirmation
+Smartwatch,"(15.513938, 80.162602)",Yes,Teasing,24,Unresolved,23-12-2024,14:28,Monday,Moderate-risk Zone,45,Notified with Delay
+Smartwatch,"(15.670791, 80.190711)",No,Assault,5,Resolved,29-02-2024,18:31,Thursday,Moderate-risk Zone,25,Notified
+Smartwatch,"(15.616007, 80.199057)",No,Teasing,14,In Progress,06-05-2024,08:42,Monday,High-risk Zone,23,Notified with Delay
+Smartwatch,"(15.610916, 80.088152)",Yes,Teasing,19,Resolved,27-09-2024,04:38,Friday,Safe Zone,17,Notified with Delay
+Mobile,"(15.509984, 80.102823)",No,Assault,7,Unresolved,22-09-2024,17:17,Sunday,High-risk Zone,22,Notified with Delay
+Mobile,"(15.657107, 80.169176)",Yes,Assault,10,Unresolved,11-01-2024,06:11,Thursday,Safe Zone,15,Notified with Confirmation
+Smartwatch,"(15.654694, 80.176531)",No,Teasing,30,Resolved,16-10-2024,10:49,Wednesday,Moderate-risk Zone,35,Notified with Delay
+Panic Button Device,"(15.673881, 80.153278)",Yes,Assault,19,In Progress,24-02-2024,21:24,Saturday,Moderate-risk Zone,26,Notified with Confirmation
+Mobile,"(15.687213, 80.086234)",Yes,Assault,2,Unresolved,09-08-2024,04:03,Friday,High-risk Zone,29,Notified with Delay
+Mobile,"(15.63629, 80.032891)",No,Teasing,7,In Progress,23-10-2024,17:14,Wednesday,Moderate-risk Zone,43,Notified with Confirmation
+Smartwatch,"(15.536122, 80.096521)",No,Assault,28,Unresolved,05-07-2024,09:21,Friday,High-risk Zone,18,Notified with Confirmation
+Smartwatch,"(15.6458, 80.124697)",No,Teasing,19,In Progress,12-12-2024,07:00,Thursday,Safe Zone,45,Notified with Delay
+Smartwatch,"(15.50258, 80.155206)",No,Teasing,17,Resolved,03-02-2024,01:36,Saturday,Moderate-risk Zone,38,Notified with Confirmation
+Panic Button Device,"(15.679889, 80.057352)",No,Assault,4,In Progress,28-05-2024,21:49,Tuesday,Safe Zone,42,Notified with Confirmation
+Mobile,"(15.687583, 80.055827)",No,Assault,19,In Progress,19-11-2024,07:31,Tuesday,Safe Zone,27,Notified with Confirmation
+Panic Button Device,"(15.556969, 80.015867)",Yes,Assault,14,Unresolved,14-05-2024,03:07,Tuesday,Moderate-risk Zone,42,Notified with Delay
+Panic Button Device,"(15.636393, 80.002021)",No,Assault,12,Resolved,23-01-2024,17:15,Tuesday,Moderate-risk Zone,19,Notified
+Smartwatch,"(15.551882, 80.046844)",No,Teasing,27,In Progress,15-08-2024,09:40,Thursday,Moderate-risk Zone,21,Notified with Confirmation
+Mobile,"(15.668988, 80.012909)",Yes,Assault,7,Unresolved,04-11-2024,03:27,Monday,Safe Zone,29,Notified
+Panic Button Device,"(15.53727, 80.129323)",No,Teasing,27,Unresolved,01-10-2024,14:54,Tuesday,Moderate-risk Zone,45,Notified
+Mobile,"(15.511398, 80.157127)",Yes,Teasing,23,Unresolved,07-10-2024,01:31,Monday,Moderate-risk Zone,29,Notified with Delay
+Panic Button Device,"(15.630975, 80.02023)",No,Teasing,2,Resolved,10-07-2024,18:07,Wednesday,Moderate-risk Zone,36,Notified with Delay
+Panic Button Device,"(15.573484, 80.078213)",Yes,Assault,18,Resolved,06-07-2024,11:28,Saturday,Moderate-risk Zone,44,Notified
+Smartwatch,"(15.604475, 80.136302)",Yes,Teasing,9,Resolved,20-12-2024,13:01,Friday,Safe Zone,21,Notified with Confirmation
+Smartwatch,"(15.508561, 80.045117)",No,Teasing,18,Resolved,07-02-2024,13:47,Wednesday,Moderate-risk Zone,20,Notified with Confirmation
+Panic Button Device,"(15.574849, 80.011783)",No,Assault,15,In Progress,17-10-2024,08:04,Thursday,Moderate-risk Zone,42,Notified with Delay
+Smartwatch,"(15.660144, 80.139405)",Yes,Assault,15,In Progress,04-06-2024,20:31,Tuesday,Safe Zone,43,Notified with Confirmation
+Smartwatch,"(15.537836, 80.007227)",No,Assault,26,Resolved,10-02-2024,05:11,Saturday,High-risk Zone,37,Notified with Delay
+Mobile,"(15.696739, 80.158383)",Yes,Teasing,2,Unresolved,21-01-2024,00:49,Sunday,High-risk Zone,15,Notified with Confirmation
+Panic Button Device,"(15.550307, 80.056338)",No,Teasing,14,Unresolved,17-09-2024,13:34,Tuesday,High-risk Zone,20,Notified with Confirmation
+Smartwatch,"(15.68409, 80.086376)",No,Teasing,14,Resolved,26-05-2024,10:33,Sunday,Safe Zone,35,Notified
+Smartwatch,"(15.599904, 80.160613)",Yes,Assault,10,In Progress,14-07-2024,10:44,Sunday,Moderate-risk Zone,37,Notified with Confirmation
+Mobile,"(15.587344, 80.093714)",Yes,Assault,9,In Progress,16-11-2024,17:14,Saturday,Moderate-risk Zone,30,Notified with Confirmation
+Mobile,"(15.539534, 80.053189)",No,Teasing,25,Resolved,20-01-2024,10:50,Saturday,High-risk Zone,37,Notified with Confirmation
+Mobile,"(15.664891, 80.031278)",Yes,Teasing,16,Resolved,03-03-2024,08:23,Sunday,Safe Zone,31,Notified with Confirmation
+Panic Button Device,"(15.620929, 80.148769)",No,Teasing,4,Resolved,11-12-2024,06:28,Wednesday,High-risk Zone,15,Notified with Confirmation
+Panic Button Device,"(15.632161, 80.048959)",Yes,Teasing,4,Unresolved,29-04-2024,14:20,Monday,Moderate-risk Zone,19,Notified with Delay
+Smartwatch,"(15.650829, 80.078909)",No,Teasing,22,Resolved,03-01-2024,16:02,Wednesday,Safe Zone,41,Notified with Confirmation
+Mobile,"(15.667117, 80.114662)",Yes,Teasing,8,In Progress,11-06-2024,10:36,Tuesday,High-risk Zone,19,Notified with Delay
+Panic Button Device,"(15.516736, 80.085223)",No,Teasing,20,In Progress,31-08-2024,00:11,Saturday,Moderate-risk Zone,24,Notified
+Smartwatch,"(15.534977, 80.04392)",Yes,Teasing,9,Unresolved,08-03-2024,14:18,Friday,High-risk Zone,36,Notified
+Mobile,"(15.65559, 80.010653)",No,Teasing,30,Resolved,23-05-2024,13:18,Thursday,Moderate-risk Zone,35,Notified with Delay
+Smartwatch,"(15.655579, 80.063596)",No,Teasing,19,In Progress,18-09-2024,19:12,Wednesday,Safe Zone,35,Notified with Confirmation
+Smartwatch,"(15.503494, 80.110001)",Yes,Teasing,14,In Progress,23-08-2024,07:24,Friday,High-risk Zone,33,Notified
+Smartwatch,"(15.511391, 80.195189)",Yes,Teasing,24,Unresolved,18-12-2024,21:28,Wednesday,Safe Zone,22,Notified with Delay
+Panic Button Device,"(15.621665, 80.060228)",No,Assault,25,In Progress,03-06-2024,20:42,Monday,Moderate-risk Zone,36,Notified with Confirmation
+Smartwatch,"(15.544608, 80.090446)",Yes,Assault,4,In Progress,30-11-2024,09:43,Saturday,Moderate-risk Zone,40,Notified
+Panic Button Device,"(15.562244, 80.130921)",Yes,Teasing,7,Unresolved,28-06-2024,22:22,Friday,Safe Zone,25,Notified
+Smartwatch,"(15.503757, 80.184174)",Yes,Assault,23,Resolved,15-10-2024,20:39,Tuesday,Safe Zone,23,Notified with Delay
+Mobile,"(15.616629, 80.074091)",Yes,Teasing,24,In Progress,23-09-2024,13:14,Monday,High-risk Zone,45,Notified with Confirmation
+Panic Button Device,"(15.559059, 80.182871)",Yes,Teasing,24,Unresolved,10-11-2024,22:19,Sunday,Safe Zone,26,Notified with Confirmation
+Smartwatch,"(15.662678, 80.085176)",No,Assault,5,In Progress,14-04-2024,17:48,Sunday,Safe Zone,18,Notified
+Panic Button Device,"(15.532177, 80.109424)",No,Assault,13,Unresolved,20-02-2024,11:55,Tuesday,High-risk Zone,42,Notified with Confirmation
+Mobile,"(15.69807, 80.005938)",No,Teasing,17,In Progress,20-01-2024,06:46,Saturday,High-risk Zone,19,Notified
+Smartwatch,"(15.515869, 80.068505)",Yes,Teasing,6,Unresolved,20-07-2024,06:10,Saturday,Safe Zone,42,Notified with Confirmation
+Mobile,"(15.660199, 80.093315)",Yes,Assault,10,Resolved,07-12-2024,16:34,Saturday,Moderate-risk Zone,26,Notified
+Panic Button Device,"(15.544675, 80.079235)",Yes,Assault,15,Resolved,21-10-2024,11:06,Monday,Moderate-risk Zone,40,Notified with Delay
+Panic Button Device,"(15.528757, 80.189131)",No,Assault,27,In Progress,25-03-2024,10:37,Monday,High-risk Zone,28,Notified with Delay
+Smartwatch,"(15.653872, 80.098399)",No,Teasing,29,In Progress,10-10-2024,14:46,Thursday,High-risk Zone,28,Notified with Confirmation
+Mobile,"(15.514824, 80.168366)",Yes,Teasing,28,In Progress,28-11-2024,13:52,Thursday,Safe Zone,20,Notified
+Mobile,"(15.595124, 80.079478)",Yes,Teasing,8,In Progress,26-08-2024,18:18,Monday,Safe Zone,32,Notified with Confirmation
+Panic Button Device,"(15.622513, 80.176155)",No,Assault,24,Unresolved,18-08-2024,05:45,Sunday,High-risk Zone,35,Notified with Confirmation
+Smartwatch,"(15.694403, 80.169614)",No,Teasing,13,Resolved,17-09-2024,13:28,Tuesday,Moderate-risk Zone,22,Notified with Confirmation
+Smartwatch,"(15.684386, 80.162983)",Yes,Teasing,7,In Progress,23-04-2024,14:54,Tuesday,High-risk Zone,20,Notified with Delay
+Mobile,"(15.635249, 80.089781)",Yes,Teasing,29,In Progress,02-11-2024,06:22,Saturday,Moderate-risk Zone,38,Notified with Confirmation
+Mobile,"(15.518117, 80.085704)",No,Assault,14,In Progress,10-09-2024,11:10,Tuesday,Safe Zone,36,Notified with Confirmation
+Mobile,"(15.512818, 80.17175)",No,Teasing,7,Unresolved,15-04-2024,01:05,Monday,Moderate-risk Zone,29,Notified with Delay
+Panic Button Device,"(15.695357, 80.005605)",No,Assault,11,Resolved,16-08-2024,01:21,Friday,Safe Zone,38,Notified with Delay
+Mobile,"(15.540751, 80.168373)",Yes,Teasing,22,Resolved,29-08-2024,18:03,Thursday,Safe Zone,43,Notified
+Smartwatch,"(15.576687, 80.05563)",Yes,Teasing,25,Unresolved,02-08-2024,21:08,Friday,High-risk Zone,28,Notified with Delay
+Smartwatch,"(15.684688, 80.018141)",Yes,Teasing,29,Unresolved,17-09-2024,15:51,Tuesday,Moderate-risk Zone,35,Notified with Delay
+Panic Button Device,"(15.606851, 80.01996)",No,Teasing,23,In Progress,20-02-2024,18:02,Tuesday,Safe Zone,30,Notified
+Smartwatch,"(15.642089, 80.153565)",No,Assault,8,Resolved,23-05-2024,04:13,Thursday,High-risk Zone,22,Notified with Delay
+Panic Button Device,"(15.582845, 80.016729)",Yes,Assault,23,Resolved,24-07-2024,11:15,Wednesday,Moderate-risk Zone,35,Notified with Confirmation
+Panic Button Device,"(15.519631, 80.108407)",Yes,Assault,29,In Progress,10-01-2024,16:51,Wednesday,Moderate-risk Zone,34,Notified
+Panic Button Device,"(15.618733, 80.12453)",No,Teasing,8,Resolved,21-11-2024,17:37,Thursday,High-risk Zone,25,Notified
+Smartwatch,"(15.685876, 80.095931)",Yes,Teasing,19,In Progress,17-09-2024,11:12,Tuesday,Safe Zone,20,Notified with Delay
+Smartwatch,"(15.593508, 80.189741)",No,Assault,18,In Progress,30-08-2024,23:17,Friday,Safe Zone,17,Notified with Confirmation
+Mobile,"(15.573882, 80.050505)",Yes,Teasing,23,Unresolved,01-01-2024,23:10,Monday,Safe Zone,33,Notified with Delay
+Panic Button Device,"(15.517101, 80.1694)",Yes,Teasing,9,In Progress,16-06-2024,13:39,Sunday,Safe Zone,24,Notified
+Mobile,"(15.592006, 80.116427)",No,Teasing,25,In Progress,29-04-2024,09:54,Monday,Safe Zone,24,Notified
+Panic Button Device,"(15.603484, 80.121399)",Yes,Teasing,6,Resolved,10-05-2024,01:53,Friday,Moderate-risk Zone,27,Notified
+Smartwatch,"(15.618473, 80.14126)",Yes,Teasing,19,Resolved,17-08-2024,00:56,Saturday,Moderate-risk Zone,21,Notified with Delay
+Smartwatch,"(15.682968, 80.157283)",No,Teasing,3,Unresolved,26-07-2024,16:14,Friday,Moderate-risk Zone,31,Notified with Delay
+Panic Button Device,"(15.508496, 80.167686)",No,Teasing,18,In Progress,14-12-2024,05:20,Saturday,Moderate-risk Zone,24,Notified
+Mobile,"(15.670274, 80.008388)",Yes,Teasing,20,Unresolved,15-01-2024,07:21,Monday,Safe Zone,38,Notified
+Mobile,"(15.658144, 80.043713)",Yes,Assault,28,Resolved,23-01-2024,13:31,Tuesday,Safe Zone,36,Notified with Delay
+Smartwatch,"(15.66598, 80.101321)",Yes,Teasing,8,In Progress,17-01-2024,18:48,Wednesday,High-risk Zone,18,Notified with Delay
+Mobile,"(15.654869, 80.049282)",Yes,Teasing,27,Resolved,05-02-2024,13:59,Monday,Safe Zone,23,Notified with Delay
+Mobile,"(15.666396, 80.04197)",Yes,Teasing,8,Unresolved,02-02-2024,22:28,Friday,High-risk Zone,23,Notified
+Smartwatch,"(15.622105, 80.046331)",No,Teasing,11,Resolved,05-11-2024,18:51,Tuesday,High-risk Zone,26,Notified
+Mobile,"(15.542829, 80.0262)",Yes,Assault,20,Resolved,01-02-2024,18:51,Thursday,Safe Zone,44,Notified with Confirmation
+Mobile,"(15.532141, 80.151354)",Yes,Teasing,6,Resolved,31-08-2024,23:18,Saturday,Moderate-risk Zone,38,Notified
+Smartwatch,"(15.551526, 80.142761)",Yes,Teasing,21,Unresolved,01-07-2024,22:04,Monday,Moderate-risk Zone,24,Notified with Delay
+Panic Button Device,"(15.585028, 80.168356)",Yes,Teasing,23,Resolved,28-12-2024,17:18,Saturday,Moderate-risk Zone,20,Notified
+Smartwatch,"(15.666537, 80.094811)",Yes,Assault,21,Unresolved,02-10-2024,12:05,Wednesday,Moderate-risk Zone,35,Notified
+Smartwatch,"(15.698775, 80.083813)",No,Assault,12,In Progress,11-10-2024,15:32,Friday,Moderate-risk Zone,45,Notified with Delay
+Panic Button Device,"(15.542868, 80.00276)",Yes,Teasing,11,Unresolved,26-07-2024,18:49,Friday,High-risk Zone,39,Notified with Confirmation
+Smartwatch,"(15.62675, 80.080349)",No,Teasing,8,Unresolved,20-06-2024,14:08,Thursday,Safe Zone,29,Notified with Confirmation
+Mobile,"(15.57197, 80.128145)",Yes,Assault,24,In Progress,07-07-2024,20:55,Sunday,High-risk Zone,38,Notified with Delay
+Panic Button Device,"(15.560798, 80.031644)",No,Assault,23,Resolved,26-03-2024,00:46,Tuesday,High-risk Zone,34,Notified with Confirmation
+Panic Button Device,"(15.522598, 80.079923)",No,Teasing,30,Resolved,16-05-2024,06:18,Thursday,Safe Zone,29,Notified with Delay
+Mobile,"(15.614369, 80.115623)",No,Assault,28,In Progress,14-05-2024,13:11,Tuesday,High-risk Zone,15,Notified with Delay
+Mobile,"(15.689667, 80.1397)",No,Teasing,15,Unresolved,22-10-2024,00:55,Tuesday,Moderate-risk Zone,34,Notified with Confirmation
+Mobile,"(15.662071, 80.108193)",Yes,Assault,22,In Progress,19-07-2024,00:40,Friday,Moderate-risk Zone,36,Notified
+Smartwatch,"(15.557031, 80.161864)",Yes,Teasing,22,In Progress,24-12-2024,17:21,Tuesday,Moderate-risk Zone,15,Notified with Delay
+Mobile,"(15.688514, 80.108046)",No,Assault,19,Resolved,04-01-2024,02:40,Thursday,Safe Zone,28,Notified with Confirmation
+Smartwatch,"(15.627286, 80.105608)",Yes,Teasing,29,Unresolved,27-02-2024,07:56,Tuesday,High-risk Zone,27,Notified with Confirmation
+Panic Button Device,"(15.596123, 80.055102)",No,Assault,14,In Progress,06-03-2024,01:07,Wednesday,High-risk Zone,30,Notified
+Smartwatch,"(15.660097, 80.043854)",No,Assault,29,In Progress,14-08-2024,21:32,Wednesday,Moderate-risk Zone,28,Notified
+Panic Button Device,"(15.624517, 80.065165)",Yes,Teasing,17,Resolved,10-06-2024,18:55,Monday,High-risk Zone,39,Notified
+Mobile,"(15.647075, 80.186553)",No,Teasing,17,Resolved,23-06-2024,17:39,Sunday,Moderate-risk Zone,27,Notified
+Smartwatch,"(15.649568, 80.197746)",Yes,Assault,26,Resolved,25-03-2024,06:11,Monday,Safe Zone,28,Notified
+Mobile,"(15.589225, 80.13902)",Yes,Assault,25,In Progress,25-03-2024,15:03,Monday,High-risk Zone,37,Notified with Confirmation
+Mobile,"(15.561344, 80.139952)",No,Assault,6,Unresolved,23-03-2024,09:32,Saturday,Moderate-risk Zone,22,Notified with Delay
+Panic Button Device,"(15.601558, 80.105073)",No,Teasing,8,Resolved,05-08-2024,21:09,Monday,Moderate-risk Zone,45,Notified with Confirmation
+Mobile,"(15.639422, 80.151387)",Yes,Assault,9,Unresolved,17-06-2024,07:49,Monday,Moderate-risk Zone,20,Notified with Confirmation
+Panic Button Device,"(15.640382, 80.173009)",Yes,Teasing,14,In Progress,14-12-2024,04:21,Saturday,High-risk Zone,30,Notified with Confirmation
+Smartwatch,"(15.529958, 80.156602)",Yes,Teasing,25,In Progress,16-06-2024,11:29,Sunday,Moderate-risk Zone,17,Notified with Confirmation
+Panic Button Device,"(15.557182, 80.002206)",No,Assault,23,In Progress,26-09-2024,21:40,Thursday,Safe Zone,42,Notified with Confirmation
+Mobile,"(15.627358, 80.023327)",No,Assault,3,Resolved,08-09-2024,10:24,Sunday,High-risk Zone,22,Notified with Delay
+Panic Button Device,"(15.673871, 80.063482)",Yes,Teasing,13,In Progress,15-06-2024,18:31,Saturday,Moderate-risk Zone,26,Notified
+Smartwatch,"(15.697299, 80.117493)",No,Teasing,9,In Progress,28-12-2024,13:29,Saturday,High-risk Zone,45,Notified
+Mobile,"(15.516205, 80.166541)",No,Assault,24,Unresolved,28-09-2024,18:45,Saturday,High-risk Zone,19,Notified with Confirmation
+Mobile,"(15.556542, 80.000127)",No,Assault,5,In Progress,10-04-2024,07:02,Wednesday,Moderate-risk Zone,40,Notified with Confirmation
+Mobile,"(15.666312, 80.021284)",Yes,Teasing,21,Unresolved,11-03-2024,15:13,Monday,Moderate-risk Zone,29,Notified with Delay
+Panic Button Device,"(15.673784, 80.170049)",Yes,Assault,22,In Progress,01-05-2024,07:12,Wednesday,Moderate-risk Zone,37,Notified
+Mobile,"(15.563034, 80.124053)",No,Teasing,2,Resolved,10-09-2024,15:00,Tuesday,Safe Zone,45,Notified
+Mobile,"(15.641995, 80.139825)",Yes,Teasing,28,Unresolved,17-01-2024,13:32,Wednesday,High-risk Zone,28,Notified
+Mobile,"(15.57322, 80.038331)",Yes,Assault,29,Resolved,20-10-2024,10:41,Sunday,Safe Zone,19,Notified with Delay
+Panic Button Device,"(15.501799, 80.122115)",No,Teasing,19,In Progress,26-08-2024,02:37,Monday,High-risk Zone,42,Notified with Delay
+Mobile,"(15.504154, 80.196679)",No,Teasing,13,Unresolved,05-01-2024,07:39,Friday,Safe Zone,18,Notified
+Mobile,"(15.670686, 80.129456)",No,Assault,14,Resolved,05-10-2024,15:09,Saturday,Safe Zone,28,Notified with Delay
+Smartwatch,"(15.589489, 80.086902)",Yes,Assault,11,Resolved,15-02-2024,03:52,Thursday,Safe Zone,15,Notified with Delay
+Mobile,"(15.618234, 80.18591)",Yes,Assault,7,Resolved,29-10-2024,04:21,Tuesday,High-risk Zone,21,Notified with Delay
+Mobile,"(15.689962, 80.087333)",Yes,Teasing,24,Unresolved,31-05-2024,01:21,Friday,High-risk Zone,23,Notified with Confirmation
+Smartwatch,"(15.588089, 80.10585)",No,Assault,9,Unresolved,24-10-2024,18:52,Thursday,Safe Zone,15,Notified with Delay
+Panic Button Device,"(15.656812, 80.030936)",No,Assault,5,In Progress,08-04-2024,16:48,Monday,Moderate-risk Zone,37,Notified with Confirmation
+Smartwatch,"(15.564648, 80.180215)",Yes,Teasing,11,Resolved,10-12-2024,10:04,Tuesday,Safe Zone,29,Notified
+Panic Button Device,"(15.588654, 80.013756)",No,Teasing,25,Unresolved,13-04-2024,21:09,Saturday,Safe Zone,37,Notified with Confirmation
+Panic Button Device,"(15.534712, 80.122457)",Yes,Assault,28,Resolved,09-10-2024,22:30,Wednesday,Safe Zone,19,Notified
+Panic Button Device,"(15.605657, 80.172882)",No,Assault,4,Resolved,07-06-2024,18:00,Friday,Safe Zone,15,Notified
+Mobile,"(15.66363, 80.069484)",No,Assault,17,Unresolved,01-01-2024,08:55,Monday,High-risk Zone,42,Notified with Delay
+Panic Button Device,"(15.556138, 80.065965)",No,Assault,11,Resolved,02-07-2024,20:53,Tuesday,Moderate-risk Zone,35,Notified with Confirmation
+Panic Button Device,"(15.534609, 80.131344)",No,Teasing,24,Resolved,27-07-2024,22:30,Saturday,Safe Zone,42,Notified with Confirmation
+Mobile,"(15.654378, 80.001391)",Yes,Teasing,17,Unresolved,05-09-2024,11:21,Thursday,High-risk Zone,32,Notified with Delay
+Panic Button Device,"(15.596021, 80.092272)",Yes,Assault,6,Resolved,08-05-2024,01:56,Wednesday,Moderate-risk Zone,22,Notified with Confirmation
+Mobile,"(15.526757, 80.088806)",No,Assault,11,Unresolved,18-11-2024,07:06,Monday,High-risk Zone,35,Notified with Confirmation
+Panic Button Device,"(15.622284, 80.134558)",No,Teasing,17,Unresolved,17-06-2024,21:36,Monday,Moderate-risk Zone,32,Notified
+Smartwatch,"(15.661901, 80.065452)",Yes,Teasing,2,Unresolved,09-08-2024,15:55,Friday,Safe Zone,23,Notified
+Panic Button Device,"(15.582892, 80.016301)",Yes,Teasing,4,Resolved,04-12-2024,20:28,Wednesday,Safe Zone,32,Notified with Delay
+Smartwatch,"(15.663672, 80.074371)",No,Teasing,25,Unresolved,09-07-2024,20:30,Tuesday,Moderate-risk Zone,42,Notified with Confirmation
+Smartwatch,"(15.592167, 80.029434)",No,Assault,14,In Progress,11-08-2024,19:34,Sunday,Safe Zone,34,Notified
+Mobile,"(15.607765, 80.062939)",No,Assault,3,In Progress,26-09-2024,07:58,Thursday,High-risk Zone,30,Notified with Delay
+Mobile,"(15.580057, 80.144656)",No,Assault,29,Unresolved,20-10-2024,18:39,Sunday,Safe Zone,39,Notified with Confirmation
+Panic Button Device,"(15.658532, 80.199593)",Yes,Assault,20,Unresolved,03-05-2024,11:07,Friday,High-risk Zone,32,Notified with Delay
+Panic Button Device,"(15.668238, 80.136461)",No,Assault,15,Unresolved,24-02-2024,18:30,Saturday,High-risk Zone,33,Notified with Confirmation
+Mobile,"(15.62474, 80.02101)",Yes,Assault,28,Unresolved,15-11-2024,01:57,Friday,Safe Zone,42,Notified with Confirmation
+Panic Button Device,"(15.568384, 80.004764)",Yes,Assault,27,Resolved,05-09-2024,08:27,Thursday,Moderate-risk Zone,15,Notified
+Mobile,"(15.671687, 80.029649)",Yes,Teasing,23,Unresolved,05-06-2024,18:50,Wednesday,Moderate-risk Zone,28,Notified with Confirmation
+Mobile,"(15.604728, 80.010667)",Yes,Teasing,28,Unresolved,02-12-2024,02:33,Monday,Safe Zone,25,Notified with Confirmation
+Panic Button Device,"(15.665382, 80.140702)",Yes,Teasing,10,Unresolved,08-10-2024,00:36,Tuesday,Safe Zone,29,Notified with Confirmation
+Mobile,"(15.622767, 80.166833)",Yes,Assault,9,Unresolved,28-08-2024,12:28,Wednesday,Safe Zone,36,Notified
+Panic Button Device,"(15.629114, 80.10213)",Yes,Teasing,6,Unresolved,01-01-2024,13:23,Monday,High-risk Zone,35,Notified with Delay
+Smartwatch,"(15.528508, 80.164725)",No,Teasing,14,Resolved,06-07-2024,00:20,Saturday,Moderate-risk Zone,41,Notified with Confirmation
+Smartwatch,"(15.643735, 80.117918)",Yes,Assault,26,Resolved,23-08-2024,12:05,Friday,High-risk Zone,35,Notified with Confirmation
+Smartwatch,"(15.560591, 80.009821)",Yes,Teasing,24,Resolved,10-08-2024,11:35,Saturday,Safe Zone,31,Notified with Confirmation
+Panic Button Device,"(15.557978, 80.103233)",Yes,Teasing,14,Resolved,10-04-2024,05:39,Wednesday,Moderate-risk Zone,25,Notified with Delay
+Smartwatch,"(15.688619, 80.000093)",No,Assault,15,In Progress,17-12-2024,05:05,Tuesday,Moderate-risk Zone,45,Notified with Delay
+Mobile,"(15.561661, 80.165453)",Yes,Assault,28,In Progress,03-06-2024,21:22,Monday,Moderate-risk Zone,21,Notified with Confirmation
+Smartwatch,"(15.641439, 80.180366)",Yes,Teasing,22,In Progress,05-09-2024,09:35,Thursday,Moderate-risk Zone,41,Notified with Confirmation
+Panic Button Device,"(15.671857, 80.185121)",No,Teasing,11,In Progress,13-10-2024,04:06,Sunday,High-risk Zone,17,Notified with Delay
+Panic Button Device,"(15.699566, 80.123291)",Yes,Teasing,4,Unresolved,21-10-2024,08:05,Monday,Safe Zone,28,Notified with Delay
+Panic Button Device,"(15.642847, 80.076738)",Yes,Teasing,10,In Progress,04-09-2024,07:24,Wednesday,Moderate-risk Zone,45,Notified with Confirmation
+Smartwatch,"(15.637701, 80.195827)",Yes,Assault,20,In Progress,28-04-2024,23:08,Sunday,Safe Zone,28,Notified with Confirmation
+Mobile,"(15.562697, 80.054357)",No,Assault,5,Resolved,27-12-2024,05:04,Friday,Safe Zone,38,Notified with Confirmation
+Panic Button Device,"(15.528145, 80.134969)",Yes,Assault,30,Resolved,06-04-2024,10:42,Saturday,Safe Zone,28,Notified with Delay
+Mobile,"(15.668678, 80.142483)",No,Assault,19,Unresolved,22-06-2024,14:38,Saturday,Moderate-risk Zone,34,Notified
+Mobile,"(15.525972, 80.074342)",Yes,Assault,3,In Progress,26-12-2024,02:16,Thursday,Moderate-risk Zone,44,Notified with Confirmation
+Mobile,"(15.577874, 80.095332)",Yes,Teasing,13,In Progress,28-06-2024,06:07,Friday,Moderate-risk Zone,34,Notified with Delay
+Mobile,"(15.51917, 80.194297)",Yes,Assault,21,In Progress,19-06-2024,07:30,Wednesday,High-risk Zone,28,Notified
+Smartwatch,"(15.622368, 80.185933)",No,Teasing,9,Unresolved,22-06-2024,21:08,Saturday,Moderate-risk Zone,25,Notified
+Smartwatch,"(15.594391, 80.053894)",Yes,Assault,23,Unresolved,04-09-2024,10:50,Wednesday,Moderate-risk Zone,25,Notified with Delay
+Smartwatch,"(15.669041, 80.073521)",Yes,Teasing,11,In Progress,14-02-2024,07:27,Wednesday,Safe Zone,30,Notified
+Mobile,"(15.553031, 80.052999)",Yes,Assault,7,Resolved,06-03-2024,02:10,Wednesday,Safe Zone,21,Notified with Delay
+Smartwatch,"(15.597553, 80.159783)",Yes,Assault,4,Resolved,23-01-2024,07:27,Tuesday,High-risk Zone,32,Notified with Delay
+Panic Button Device,"(15.574847, 80.174214)",Yes,Teasing,24,Unresolved,17-04-2024,17:59,Wednesday,High-risk Zone,15,Notified with Confirmation
+Smartwatch,"(15.634954, 80.079253)",Yes,Teasing,6,Resolved,20-11-2024,03:35,Wednesday,Safe Zone,27,Notified
+Mobile,"(15.576892, 80.183139)",No,Assault,16,Unresolved,13-03-2024,16:24,Wednesday,Moderate-risk Zone,25,Notified with Delay
+Mobile,"(15.642731, 80.198699)",No,Assault,25,Resolved,07-11-2024,04:58,Thursday,Safe Zone,32,Notified with Delay
+Smartwatch,"(15.599376, 80.125579)",No,Assault,4,In Progress,10-08-2024,20:43,Saturday,Moderate-risk Zone,44,Notified with Delay
+Mobile,"(15.668307, 80.17991)",No,Teasing,23,Resolved,03-05-2024,15:29,Friday,Moderate-risk Zone,39,Notified
+Mobile,"(15.578419, 80.055919)",No,Teasing,11,Resolved,28-02-2024,00:51,Wednesday,Safe Zone,33,Notified
+Mobile,"(15.530951, 80.109219)",Yes,Assault,18,Unresolved,14-06-2024,13:21,Friday,High-risk Zone,25,Notified with Confirmation
+Panic Button Device,"(15.698193, 80.065348)",No,Teasing,7,Unresolved,02-10-2024,11:32,Wednesday,High-risk Zone,22,Notified with Confirmation
+Mobile,"(15.696479, 80.135133)",Yes,Teasing,14,Resolved,11-12-2024,04:29,Wednesday,Safe Zone,23,Notified
+Panic Button Device,"(15.576274, 80.071176)",No,Assault,27,Resolved,25-08-2024,03:19,Sunday,Safe Zone,37,Notified with Confirmation
+Smartwatch,"(15.55928, 80.131043)",No,Teasing,23,In Progress,15-03-2024,18:34,Friday,High-risk Zone,17,Notified with Confirmation
+Smartwatch,"(15.573025, 80.197519)",Yes,Teasing,30,Unresolved,08-07-2024,03:25,Monday,Moderate-risk Zone,42,Notified
+Mobile,"(15.667901, 80.155964)",Yes,Assault,23,In Progress,29-06-2024,18:05,Saturday,Safe Zone,27,Notified with Confirmation
+Mobile,"(15.598185, 80.053709)",No,Assault,8,In Progress,04-04-2024,02:22,Thursday,Safe Zone,30,Notified with Confirmation
+Mobile,"(15.645054, 80.09346)",No,Teasing,9,In Progress,31-07-2024,17:06,Wednesday,Safe Zone,33,Notified with Delay
+Smartwatch,"(15.592608, 80.037236)",No,Teasing,19,In Progress,22-10-2024,06:13,Tuesday,Moderate-risk Zone,22,Notified with Confirmation
+Smartwatch,"(15.572093, 80.046497)",Yes,Assault,14,Resolved,22-03-2024,14:47,Friday,Safe Zone,25,Notified with Delay
+Panic Button Device,"(15.594541, 80.000491)",No,Assault,3,Resolved,24-09-2024,18:42,Tuesday,High-risk Zone,35,Notified with Confirmation
+Smartwatch,"(15.678232, 80.005742)",Yes,Teasing,12,In Progress,16-08-2024,16:52,Friday,High-risk Zone,25,Notified with Delay
+Mobile,"(15.688781, 80.065726)",Yes,Teasing,14,Resolved,09-10-2024,02:38,Wednesday,Safe Zone,42,Notified with Confirmation
+Panic Button Device,"(15.611175, 80.146227)",Yes,Teasing,11,Unresolved,01-05-2024,16:25,Wednesday,Safe Zone,25,Notified
+Smartwatch,"(15.698253, 80.046804)",Yes,Teasing,25,Unresolved,22-03-2024,11:19,Friday,Safe Zone,27,Notified with Delay
+Smartwatch,"(15.679204, 80.072974)",Yes,Teasing,11,Unresolved,13-11-2024,18:56,Wednesday,Safe Zone,32,Notified with Confirmation
+Panic Button Device,"(15.506829, 80.11312)",Yes,Teasing,14,Unresolved,26-12-2024,10:52,Thursday,Moderate-risk Zone,37,Notified with Delay
+Smartwatch,"(15.584448, 80.08512)",Yes,Assault,6,In Progress,27-10-2024,22:52,Sunday,Moderate-risk Zone,24,Notified with Confirmation
+Panic Button Device,"(15.658194, 80.059448)",Yes,Teasing,17,Resolved,18-04-2024,09:53,Thursday,Safe Zone,34,Notified with Confirmation
+Panic Button Device,"(15.519722, 80.104042)",Yes,Assault,24,Resolved,05-07-2024,21:18,Friday,High-risk Zone,44,Notified with Delay
+Panic Button Device,"(15.552429, 80.143537)",Yes,Assault,28,Unresolved,27-06-2024,09:52,Thursday,Safe Zone,25,Notified with Confirmation
+Mobile,"(15.665757, 80.029191)",No,Assault,25,In Progress,31-08-2024,01:15,Saturday,High-risk Zone,20,Notified
+Panic Button Device,"(15.602723, 80.12792)",No,Assault,19,Resolved,17-01-2024,22:03,Wednesday,Moderate-risk Zone,31,Notified with Confirmation
+Smartwatch,"(15.528278, 80.104929)",No,Teasing,4,Unresolved,23-04-2024,02:55,Tuesday,Safe Zone,23,Notified
+Smartwatch,"(15.543587, 80.133768)",No,Assault,7,In Progress,23-09-2024,11:17,Monday,Moderate-risk Zone,23,Notified with Delay
+Mobile,"(15.631784, 80.079332)",No,Assault,10,Unresolved,17-12-2024,23:36,Tuesday,High-risk Zone,33,Notified with Confirmation
+Smartwatch,"(15.519423, 80.169365)",No,Teasing,11,In Progress,14-01-2024,07:26,Sunday,High-risk Zone,17,Notified
+Panic Button Device,"(15.668009, 80.025328)",Yes,Teasing,24,Unresolved,23-05-2024,04:08,Thursday,Moderate-risk Zone,41,Notified with Delay
+Mobile,"(15.533888, 80.050499)",No,Teasing,5,In Progress,30-04-2024,19:56,Tuesday,Safe Zone,36,Notified with Delay
+Panic Button Device,"(15.66851, 80.16022)",Yes,Teasing,28,Resolved,22-09-2024,16:24,Sunday,Safe Zone,27,Notified with Confirmation
+Smartwatch,"(15.549644, 80.043265)",Yes,Assault,28,Resolved,14-09-2024,06:36,Saturday,Moderate-risk Zone,41,Notified
+Smartwatch,"(15.687058, 80.093442)",Yes,Assault,21,In Progress,16-12-2024,05:57,Monday,Moderate-risk Zone,19,Notified
+Panic Button Device,"(15.628361, 80.100204)",No,Teasing,16,Unresolved,15-09-2024,15:39,Sunday,High-risk Zone,43,Notified
+Panic Button Device,"(15.560974, 80.004127)",No,Assault,16,Unresolved,13-02-2024,12:25,Tuesday,Safe Zone,30,Notified
+Smartwatch,"(15.607132, 80.170297)",No,Assault,21,Unresolved,20-11-2024,07:17,Wednesday,High-risk Zone,18,Notified with Confirmation
+Panic Button Device,"(15.505349, 80.118695)",Yes,Assault,22,Unresolved,24-01-2024,09:40,Wednesday,Safe Zone,29,Notified with Confirmation
+Panic Button Device,"(15.655887, 80.117116)",No,Assault,12,In Progress,12-12-2024,06:10,Thursday,High-risk Zone,34,Notified with Confirmation
+Mobile,"(15.643322, 80.050031)",Yes,Assault,30,Unresolved,05-07-2024,00:49,Friday,Safe Zone,35,Notified with Confirmation
+Smartwatch,"(15.551128, 80.009411)",No,Teasing,5,In Progress,26-04-2024,13:46,Friday,High-risk Zone,34,Notified
+Panic Button Device,"(15.638303, 80.077733)",Yes,Assault,19,In Progress,25-11-2024,08:03,Monday,High-risk Zone,26,Notified
+Panic Button Device,"(15.602271, 80.002802)",Yes,Teasing,28,Unresolved,08-09-2024,16:10,Sunday,High-risk Zone,23,Notified with Confirmation
+Panic Button Device,"(15.699985, 80.071706)",Yes,Teasing,21,Unresolved,10-06-2024,18:35,Monday,High-risk Zone,17,Notified with Confirmation
+Smartwatch,"(15.670538, 80.067757)",Yes,Teasing,28,Unresolved,16-02-2024,03:41,Friday,High-risk Zone,16,Notified with Confirmation
+Mobile,"(15.662711, 80.064174)",No,Assault,4,Unresolved,27-01-2024,19:18,Saturday,Moderate-risk Zone,41,Notified
+Mobile,"(15.541473, 80.127013)",Yes,Assault,16,Unresolved,11-01-2024,16:56,Thursday,Safe Zone,16,Notified with Delay
+Smartwatch,"(15.697081, 80.038307)",Yes,Teasing,14,Resolved,25-04-2024,18:28,Thursday,Moderate-risk Zone,44,Notified
+Panic Button Device,"(15.520091, 80.047232)",No,Assault,14,Unresolved,25-01-2024,02:38,Thursday,High-risk Zone,21,Notified with Confirmation
+Mobile,"(15.657032, 80.150914)",No,Assault,12,Resolved,19-07-2024,21:17,Friday,Safe Zone,38,Notified with Delay
+Mobile,"(15.555133, 80.169456)",No,Assault,12,Resolved,31-10-2024,18:15,Thursday,High-risk Zone,36,Notified
+Panic Button Device,"(15.650697, 80.198085)",No,Assault,3,Unresolved,29-03-2024,16:51,Friday,High-risk Zone,42,Notified with Confirmation
+Panic Button Device,"(15.566867, 80.10563)",Yes,Assault,22,In Progress,02-06-2024,14:38,Sunday,Safe Zone,42,Notified with Confirmation
+Smartwatch,"(15.650977, 80.141968)",No,Assault,5,In Progress,22-08-2024,18:05,Thursday,Moderate-risk Zone,20,Notified with Confirmation
+Panic Button Device,"(15.53284, 80.046229)",No,Assault,29,Resolved,05-07-2024,18:03,Friday,High-risk Zone,20,Notified with Delay
+Mobile,"(15.514826, 80.008044)",No,Teasing,9,Resolved,20-02-2024,02:23,Tuesday,Moderate-risk Zone,20,Notified with Delay
+Panic Button Device,"(15.503108, 80.033615)",Yes,Assault,17,Unresolved,24-03-2024,04:38,Sunday,Moderate-risk Zone,42,Notified with Delay
+Panic Button Device,"(15.536277, 80.179235)",No,Assault,27,Unresolved,28-06-2024,05:55,Friday,Safe Zone,30,Notified
+Panic Button Device,"(15.623571, 80.10593)",No,Assault,21,Unresolved,08-05-2024,13:55,Wednesday,High-risk Zone,17,Notified with Delay
+Mobile,"(15.699139, 80.148773)",No,Assault,16,Resolved,06-04-2024,09:12,Saturday,Safe Zone,38,Notified with Delay
+Mobile,"(15.675215, 80.149631)",Yes,Assault,30,Unresolved,16-11-2024,17:05,Saturday,Safe Zone,41,Notified with Delay
+Smartwatch,"(15.687759, 80.021077)",Yes,Teasing,10,Resolved,13-06-2024,03:56,Thursday,High-risk Zone,24,Notified
+Mobile,"(15.601027, 80.098503)",No,Teasing,18,Resolved,18-01-2024,10:36,Thursday,High-risk Zone,16,Notified
+Panic Button Device,"(15.649142, 80.015561)",No,Assault,28,Unresolved,10-05-2024,17:08,Friday,Moderate-risk Zone,19,Notified with Delay
+Mobile,"(15.573331, 80.113559)",No,Assault,16,Unresolved,25-09-2024,12:13,Wednesday,Safe Zone,43,Notified with Confirmation
+Panic Button Device,"(15.573634, 80.057974)",No,Teasing,16,Unresolved,27-03-2024,14:06,Wednesday,Moderate-risk Zone,21,Notified
+Mobile,"(15.697146, 80.06389)",No,Assault,19,Unresolved,19-06-2024,05:01,Wednesday,High-risk Zone,15,Notified
+Smartwatch,"(15.577248, 80.104082)",Yes,Assault,29,In Progress,08-08-2024,07:33,Thursday,Safe Zone,27,Notified with Confirmation
+Panic Button Device,"(15.649479, 80.008441)",Yes,Teasing,7,Resolved,19-03-2024,00:58,Tuesday,Moderate-risk Zone,44,Notified with Delay
+Mobile,"(15.603436, 80.195065)",Yes,Teasing,21,Unresolved,10-03-2024,18:44,Sunday,High-risk Zone,42,Notified with Confirmation
+Panic Button Device,"(15.608935, 80.120926)",Yes,Teasing,28,In Progress,03-12-2024,07:11,Tuesday,High-risk Zone,45,Notified with Confirmation
+Mobile,"(15.576998, 80.016087)",No,Assault,6,In Progress,16-07-2024,20:09,Tuesday,Safe Zone,15,Notified with Confirmation
+Mobile,"(15.502603, 80.03874)",No,Assault,25,In Progress,03-02-2024,04:38,Saturday,Moderate-risk Zone,19,Notified
+Panic Button Device,"(15.599966, 80.139486)",Yes,Teasing,17,Unresolved,27-08-2024,14:38,Tuesday,Safe Zone,23,Notified with Confirmation
+Panic Button Device,"(15.645346, 80.077388)",Yes,Teasing,14,Resolved,25-07-2024,21:45,Thursday,Safe Zone,30,Notified with Confirmation
+Smartwatch,"(15.679913, 80.060013)",No,Teasing,17,Unresolved,05-07-2024,06:56,Friday,Safe Zone,19,Notified
+Panic Button Device,"(15.503142, 80.176167)",Yes,Teasing,16,In Progress,23-07-2024,01:18,Tuesday,High-risk Zone,21,Notified
+Mobile,"(15.691673, 80.192673)",No,Teasing,6,Resolved,20-01-2024,17:09,Saturday,Safe Zone,39,Notified with Confirmation
+Mobile,"(15.576776, 80.03616)",No,Teasing,18,Unresolved,09-02-2024,01:13,Friday,Moderate-risk Zone,34,Notified with Confirmation
+Smartwatch,"(15.505037, 80.126773)",No,Assault,23,Resolved,11-03-2024,16:37,Monday,Moderate-risk Zone,39,Notified with Delay
+Panic Button Device,"(15.582645, 80.188449)",Yes,Teasing,19,Resolved,12-11-2024,14:08,Tuesday,Safe Zone,34,Notified with Confirmation
+Panic Button Device,"(15.61171, 80.170201)",Yes,Assault,14,Resolved,22-03-2024,17:28,Friday,High-risk Zone,38,Notified with Delay
+Mobile,"(15.667465, 80.093376)",Yes,Assault,20,Unresolved,04-12-2024,22:31,Wednesday,Safe Zone,42,Notified with Confirmation
+Smartwatch,"(15.592813, 80.02397)",No,Assault,13,Resolved,30-10-2024,09:12,Wednesday,Moderate-risk Zone,30,Notified with Delay
+Panic Button Device,"(15.695879, 80.094264)",Yes,Assault,9,Unresolved,20-04-2024,06:28,Saturday,Safe Zone,31,Notified with Confirmation
+Smartwatch,"(15.567648, 80.022442)",Yes,Assault,8,In Progress,21-02-2024,05:07,Wednesday,High-risk Zone,18,Notified with Confirmation
+Smartwatch,"(15.630853, 80.005358)",Yes,Teasing,14,In Progress,22-09-2024,14:27,Sunday,Moderate-risk Zone,27,Notified
+Smartwatch,"(15.552636, 80.06101)",Yes,Teasing,10,Resolved,10-10-2024,10:15,Thursday,Moderate-risk Zone,21,Notified with Confirmation
+Mobile,"(15.52747, 80.145922)",Yes,Teasing,21,In Progress,31-12-2024,00:02,Tuesday,Moderate-risk Zone,42,Notified with Delay
+Panic Button Device,"(15.561955, 80.127128)",Yes,Assault,20,Unresolved,07-09-2024,11:36,Saturday,High-risk Zone,32,Notified with Confirmation
+Mobile,"(15.555234, 80.050816)",No,Teasing,12,In Progress,29-01-2024,16:50,Monday,Moderate-risk Zone,26,Notified with Confirmation
+Mobile,"(15.584738, 80.136014)",No,Assault,14,Unresolved,21-11-2024,16:42,Thursday,Moderate-risk Zone,27,Notified with Confirmation
+Mobile,"(15.646015, 80.038825)",No,Assault,26,Resolved,03-11-2024,20:34,Sunday,High-risk Zone,15,Notified
+Smartwatch,"(15.501443, 80.15078)",Yes,Teasing,4,In Progress,30-07-2024,13:28,Tuesday,High-risk Zone,31,Notified
+Smartwatch,"(15.53653, 80.18868)",Yes,Assault,26,Unresolved,15-08-2024,18:49,Thursday,Safe Zone,41,Notified with Confirmation
+Mobile,"(15.644968, 80.119954)",No,Teasing,28,Unresolved,18-02-2024,08:12,Sunday,Moderate-risk Zone,36,Notified with Delay
+Panic Button Device,"(15.695532, 80.118082)",No,Assault,8,In Progress,22-02-2024,09:48,Thursday,High-risk Zone,23,Notified
+Panic Button Device,"(15.669303, 80.113528)",Yes,Teasing,10,Unresolved,05-09-2024,04:16,Thursday,Safe Zone,26,Notified with Delay
+Smartwatch,"(15.641441, 80.043127)",Yes,Teasing,12,In Progress,03-05-2024,00:52,Friday,Safe Zone,42,Notified
+Smartwatch,"(15.53303, 80.101191)",No,Assault,11,Resolved,03-07-2024,00:13,Wednesday,High-risk Zone,26,Notified with Confirmation
+Panic Button Device,"(15.552806, 80.124648)",Yes,Assault,4,Unresolved,12-12-2024,08:49,Thursday,Moderate-risk Zone,42,Notified with Confirmation
+Mobile,"(15.64607, 80.002143)",No,Teasing,24,Resolved,28-04-2024,03:38,Sunday,Moderate-risk Zone,22,Notified with Confirmation
+Smartwatch,"(15.568125, 80.184318)",No,Assault,23,Resolved,18-05-2024,22:50,Saturday,Moderate-risk Zone,40,Notified with Delay
+Panic Button Device,"(15.507023, 80.192618)",Yes,Assault,24,Unresolved,04-06-2024,16:06,Tuesday,High-risk Zone,41,Notified with Delay
+Panic Button Device,"(15.569741, 80.024918)",Yes,Assault,10,In Progress,07-08-2024,15:09,Wednesday,Safe Zone,41,Notified with Delay
+Mobile,"(15.5533, 80.097037)",No,Teasing,22,Unresolved,21-03-2024,10:29,Thursday,High-risk Zone,21,Notified with Delay
+Panic Button Device,"(15.656947, 80.120519)",Yes,Assault,23,Unresolved,21-04-2024,16:04,Sunday,Moderate-risk Zone,28,Notified with Delay
+Smartwatch,"(15.52735, 80.108486)",No,Assault,19,Unresolved,18-01-2024,01:43,Thursday,Moderate-risk Zone,18,Notified with Delay
+Smartwatch,"(15.603625, 80.070044)",No,Assault,4,In Progress,08-08-2024,19:20,Thursday,High-risk Zone,44,Notified
+Smartwatch,"(15.632316, 80.030116)",Yes,Teasing,22,Resolved,25-09-2024,19:42,Wednesday,High-risk Zone,24,Notified with Confirmation
+Mobile,"(15.531285, 80.149548)",No,Teasing,4,Resolved,02-05-2024,15:41,Thursday,Moderate-risk Zone,31,Notified with Delay
+Smartwatch,"(15.639281, 80.039651)",Yes,Teasing,20,In Progress,26-03-2024,21:09,Tuesday,Safe Zone,29,Notified with Confirmation
+Smartwatch,"(15.635507, 80.029395)",Yes,Assault,29,In Progress,01-09-2024,14:27,Sunday,Moderate-risk Zone,33,Notified with Confirmation
+Mobile,"(15.636383, 80.119243)",No,Teasing,26,Unresolved,24-05-2024,02:32,Friday,Moderate-risk Zone,36,Notified with Confirmation
+Panic Button Device,"(15.520271, 80.189751)",No,Teasing,30,Resolved,30-01-2024,03:26,Tuesday,High-risk Zone,40,Notified with Confirmation
+Panic Button Device,"(15.59648, 80.128585)",No,Assault,5,In Progress,10-08-2024,23:50,Saturday,Safe Zone,39,Notified
+Mobile,"(15.577417, 80.016736)",No,Assault,18,Resolved,06-01-2024,05:41,Saturday,Moderate-risk Zone,32,Notified
+Mobile,"(15.664315, 80.159399)",Yes,Teasing,13,In Progress,24-01-2024,00:15,Wednesday,Moderate-risk Zone,44,Notified
+Smartwatch,"(15.678887, 80.112606)",Yes,Assault,6,In Progress,15-07-2024,09:47,Monday,Safe Zone,42,Notified with Confirmation
+Panic Button Device,"(15.629347, 80.161625)",Yes,Assault,2,Resolved,30-04-2024,04:39,Tuesday,Safe Zone,37,Notified
+Panic Button Device,"(15.62912, 80.042777)",Yes,Assault,2,Resolved,27-06-2024,19:52,Thursday,High-risk Zone,43,Notified
+Smartwatch,"(15.560132, 80.165136)",No,Assault,11,Unresolved,27-05-2024,01:09,Monday,Safe Zone,23,Notified with Confirmation
+Smartwatch,"(15.51253, 80.056902)",No,Teasing,29,In Progress,13-05-2024,09:03,Monday,High-risk Zone,38,Notified with Confirmation
+Panic Button Device,"(15.520901, 80.009672)",Yes,Teasing,8,Unresolved,25-06-2024,13:54,Tuesday,High-risk Zone,43,Notified
+Panic Button Device,"(15.54217, 80.154214)",No,Assault,28,Resolved,02-04-2024,19:59,Tuesday,High-risk Zone,21,Notified
+Mobile,"(15.578833, 80.117076)",Yes,Teasing,18,Resolved,31-03-2024,21:24,Sunday,High-risk Zone,20,Notified
+Mobile,"(15.606113, 80.083401)",No,Teasing,16,Unresolved,06-06-2024,03:12,Thursday,Safe Zone,35,Notified with Confirmation
+Mobile,"(15.566125, 80.020441)",No,Assault,28,Resolved,05-08-2024,21:15,Monday,Moderate-risk Zone,19,Notified with Delay
+Mobile,"(15.657874, 80.10139)",Yes,Assault,29,Unresolved,12-10-2024,09:00,Saturday,Moderate-risk Zone,30,Notified with Delay
+Panic Button Device,"(15.58406, 80.052155)",No,Teasing,12,In Progress,07-02-2024,10:33,Wednesday,High-risk Zone,40,Notified
+Smartwatch,"(15.658121, 80.077104)",No,Teasing,3,Unresolved,12-09-2024,07:53,Thursday,Safe Zone,31,Notified
+Smartwatch,"(15.631285, 80.176389)",Yes,Assault,28,In Progress,30-10-2024,15:29,Wednesday,Safe Zone,34,Notified with Delay
+Smartwatch,"(15.613987, 80.04236)",No,Teasing,6,In Progress,20-04-2024,07:11,Saturday,Moderate-risk Zone,35,Notified
+Panic Button Device,"(15.573612, 80.118076)",Yes,Assault,15,Unresolved,10-02-2024,16:35,Saturday,Moderate-risk Zone,35,Notified with Delay
+Smartwatch,"(15.524919, 80.185602)",Yes,Teasing,22,Resolved,15-02-2024,14:50,Thursday,High-risk Zone,22,Notified with Delay
+Mobile,"(15.533708, 80.0353)",No,Assault,26,Resolved,24-08-2024,10:12,Saturday,Moderate-risk Zone,21,Notified with Confirmation
+Smartwatch,"(15.689897, 80.170269)",No,Teasing,30,Unresolved,02-06-2024,16:03,Sunday,Safe Zone,27,Notified
+Panic Button Device,"(15.585827, 80.154292)",Yes,Teasing,4,Resolved,25-03-2024,21:42,Monday,Moderate-risk Zone,41,Notified with Confirmation
+Smartwatch,"(15.530568, 80.095833)",No,Assault,27,Unresolved,16-12-2024,12:03,Monday,Safe Zone,26,Notified
+Mobile,"(15.622586, 80.015499)",Yes,Assault,2,In Progress,15-04-2024,04:01,Monday,Moderate-risk Zone,43,Notified with Confirmation
+Panic Button Device,"(15.544594, 80.147054)",No,Assault,5,Resolved,06-08-2024,10:45,Tuesday,Moderate-risk Zone,33,Notified with Delay
+Mobile,"(15.532948, 80.065433)",Yes,Assault,26,Unresolved,01-11-2024,10:56,Friday,Moderate-risk Zone,27,Notified with Confirmation
+Smartwatch,"(15.621452, 80.049781)",No,Teasing,6,Unresolved,22-11-2024,06:54,Friday,Safe Zone,33,Notified with Confirmation
+Panic Button Device,"(15.547375, 80.015536)",No,Teasing,7,Unresolved,18-03-2024,04:55,Monday,High-risk Zone,44,Notified with Delay
+Mobile,"(15.592227, 80.11515)",Yes,Assault,29,In Progress,25-02-2024,18:16,Sunday,Moderate-risk Zone,43,Notified
+Smartwatch,"(15.561685, 80.178208)",Yes,Teasing,23,Unresolved,17-02-2024,10:29,Saturday,Moderate-risk Zone,16,Notified with Delay
+Panic Button Device,"(15.564656, 80.135926)",Yes,Teasing,3,In Progress,27-08-2024,19:26,Tuesday,Safe Zone,45,Notified with Delay
+Panic Button Device,"(15.512698, 80.176485)",Yes,Assault,30,In Progress,24-05-2024,22:28,Friday,Moderate-risk Zone,44,Notified
+Panic Button Device,"(15.522136, 80.179592)",Yes,Teasing,27,Resolved,01-05-2024,01:06,Wednesday,High-risk Zone,31,Notified
+Panic Button Device,"(15.543818, 80.093601)",No,Teasing,11,Unresolved,05-05-2024,12:12,Sunday,Safe Zone,40,Notified with Confirmation
+Panic Button Device,"(15.687352, 80.089128)",Yes,Teasing,19,Resolved,18-12-2024,01:31,Wednesday,Safe Zone,26,Notified with Confirmation
+Panic Button Device,"(15.610505, 80.166813)",No,Assault,7,In Progress,21-01-2024,21:54,Sunday,Moderate-risk Zone,27,Notified with Confirmation
+Smartwatch,"(15.631725, 80.14787)",Yes,Assault,22,Resolved,09-06-2024,22:07,Sunday,Safe Zone,23,Notified with Delay
+Mobile,"(15.575309, 80.19225)",No,Teasing,3,Resolved,08-07-2024,21:39,Monday,Safe Zone,22,Notified
+Panic Button Device,"(15.598982, 80.199052)",Yes,Teasing,24,In Progress,04-08-2024,11:04,Sunday,High-risk Zone,28,Notified with Delay
+Smartwatch,"(15.674962, 80.14405)",No,Teasing,21,In Progress,13-06-2024,14:07,Thursday,High-risk Zone,20,Notified with Delay
+Panic Button Device,"(15.635941, 80.063775)",Yes,Assault,3,In Progress,12-05-2024,18:46,Sunday,Safe Zone,45,Notified with Confirmation
+Mobile,"(15.539567, 80.127664)",Yes,Teasing,29,Unresolved,12-12-2024,19:26,Thursday,Safe Zone,26,Notified
+Mobile,"(15.680336, 80.088469)",No,Teasing,28,In Progress,13-07-2024,11:23,Saturday,High-risk Zone,15,Notified with Confirmation
+Panic Button Device,"(15.621356, 80.082712)",No,Teasing,11,In Progress,23-04-2024,21:47,Tuesday,High-risk Zone,42,Notified
+Mobile,"(15.691351, 80.157454)",Yes,Teasing,17,In Progress,28-06-2024,11:29,Friday,Moderate-risk Zone,17,Notified with Delay
+Smartwatch,"(15.678351, 80.188212)",No,Assault,29,In Progress,09-09-2024,08:39,Monday,Moderate-risk Zone,29,Notified with Delay
+Panic Button Device,"(15.592483, 80.172727)",Yes,Teasing,22,Unresolved,23-08-2024,19:04,Friday,Moderate-risk Zone,34,Notified with Confirmation
+Smartwatch,"(15.523668, 80.114305)",Yes,Teasing,21,Resolved,30-10-2024,04:49,Wednesday,Moderate-risk Zone,15,Notified with Confirmation
+Panic Button Device,"(15.574428, 80.171239)",No,Teasing,11,Unresolved,15-11-2024,20:24,Friday,Safe Zone,45,Notified
+Smartwatch,"(15.694226, 80.003426)",Yes,Assault,14,Resolved,07-10-2024,04:06,Monday,High-risk Zone,20,Notified with Delay
+Panic Button Device,"(15.544962, 80.176407)",Yes,Teasing,9,Resolved,26-04-2024,08:41,Friday,Safe Zone,24,Notified with Delay
+Panic Button Device,"(15.625202, 80.014981)",No,Teasing,18,Resolved,09-08-2024,21:24,Friday,High-risk Zone,31,Notified with Delay
+Mobile,"(15.682624, 80.187998)",Yes,Teasing,25,Resolved,29-04-2024,19:38,Monday,Safe Zone,26,Notified
+Smartwatch,"(15.652987, 80.109116)",No,Teasing,20,In Progress,03-03-2024,10:19,Sunday,High-risk Zone,15,Notified with Confirmation
+Mobile,"(15.615005, 80.139834)",No,Assault,20,In Progress,21-04-2024,12:15,Sunday,High-risk Zone,25,Notified with Confirmation
+Panic Button Device,"(15.678806, 80.15396)",No,Teasing,6,Resolved,27-11-2024,20:27,Wednesday,Safe Zone,21,Notified
+Panic Button Device,"(15.502909, 80.02416)",No,Assault,3,Unresolved,18-11-2024,09:19,Monday,Safe Zone,27,Notified with Confirmation
+Smartwatch,"(15.580031, 80.032994)",Yes,Teasing,20,Unresolved,14-04-2024,05:23,Sunday,Safe Zone,20,Notified with Delay
+Smartwatch,"(15.55256, 80.197599)",No,Assault,24,Resolved,11-01-2024,00:33,Thursday,High-risk Zone,45,Notified
+Panic Button Device,"(15.569246, 80.129234)",No,Teasing,28,Resolved,19-05-2024,08:51,Sunday,Moderate-risk Zone,42,Notified with Confirmation
+Mobile,"(15.683635, 80.007873)",No,Assault,12,Unresolved,24-08-2024,08:20,Saturday,Moderate-risk Zone,19,Notified
+Smartwatch,"(15.690646, 80.146332)",Yes,Assault,11,Unresolved,12-04-2024,06:22,Friday,Moderate-risk Zone,16,Notified with Confirmation
+Smartwatch,"(15.655428, 80.175048)",No,Assault,5,Unresolved,01-01-2024,18:29,Monday,Safe Zone,43,Notified with Confirmation
+Mobile,"(15.549941, 80.068467)",Yes,Teasing,8,In Progress,20-09-2024,09:35,Friday,Moderate-risk Zone,15,Notified
+Smartwatch,"(15.587557, 80.034464)",No,Assault,5,Resolved,08-02-2024,00:17,Thursday,Safe Zone,29,Notified
+Mobile,"(15.579689, 80.199591)",No,Assault,25,Resolved,31-10-2024,09:09,Thursday,Moderate-risk Zone,41,Notified with Delay
+Panic Button Device,"(15.668178, 80.021559)",Yes,Teasing,28,Resolved,24-10-2024,20:24,Thursday,Moderate-risk Zone,36,Notified with Delay
+Panic Button Device,"(15.582427, 80.134898)",No,Assault,17,Unresolved,17-06-2024,06:27,Monday,Moderate-risk Zone,25,Notified with Confirmation
+Mobile,"(15.576519, 80.196437)",Yes,Teasing,14,In Progress,11-06-2024,21:03,Tuesday,Safe Zone,28,Notified
+Smartwatch,"(15.563293, 80.11763)",Yes,Teasing,6,Resolved,30-03-2024,01:19,Saturday,Safe Zone,15,Notified
+Smartwatch,"(15.619732, 80.073434)",Yes,Teasing,23,Resolved,13-07-2024,22:17,Saturday,High-risk Zone,39,Notified with Confirmation
+Smartwatch,"(15.662457, 80.028083)",Yes,Teasing,29,Resolved,20-05-2024,08:35,Monday,High-risk Zone,38,Notified
+Mobile,"(15.526679, 80.001338)",No,Assault,16,In Progress,11-08-2024,22:45,Sunday,High-risk Zone,27,Notified with Confirmation
+Mobile,"(15.697892, 80.112661)",Yes,Teasing,24,In Progress,26-10-2024,16:37,Saturday,High-risk Zone,40,Notified with Confirmation
+Smartwatch,"(15.583358, 80.142655)",No,Teasing,15,Resolved,27-08-2024,19:30,Tuesday,Safe Zone,34,Notified
+Mobile,"(15.57208, 80.164902)",No,Assault,24,In Progress,21-03-2024,11:26,Thursday,High-risk Zone,39,Notified
+Smartwatch,"(15.552433, 80.115374)",No,Teasing,5,Resolved,21-05-2024,13:11,Tuesday,High-risk Zone,25,Notified with Confirmation
+Panic Button Device,"(15.573888, 80.171691)",No,Teasing,5,Unresolved,26-08-2024,20:16,Monday,Moderate-risk Zone,33,Notified with Confirmation
+Mobile,"(15.689658, 80.097423)",Yes,Teasing,24,Resolved,26-03-2024,03:35,Tuesday,Safe Zone,44,Notified
+Mobile,"(15.675538, 80.093588)",Yes,Teasing,3,Unresolved,21-11-2024,02:45,Thursday,High-risk Zone,18,Notified with Delay
+Smartwatch,"(15.616319, 80.08087)",No,Teasing,10,Unresolved,07-12-2024,17:03,Saturday,Safe Zone,42,Notified with Confirmation
+Panic Button Device,"(15.592605, 80.1594)",Yes,Teasing,10,In Progress,02-07-2024,08:30,Tuesday,High-risk Zone,40,Notified with Confirmation
+Mobile,"(15.596808, 80.095569)",No,Assault,19,Resolved,23-10-2024,06:08,Wednesday,Moderate-risk Zone,29,Notified with Delay
+Smartwatch,"(15.666316, 80.082103)",No,Assault,7,In Progress,28-09-2024,15:53,Saturday,Safe Zone,34,Notified with Confirmation
+Smartwatch,"(15.669532, 80.035925)",No,Teasing,3,In Progress,14-11-2024,11:29,Thursday,High-risk Zone,15,Notified with Delay
+Mobile,"(15.583278, 80.083408)",Yes,Teasing,7,Unresolved,13-07-2024,21:16,Saturday,High-risk Zone,43,Notified with Confirmation
+Mobile,"(15.538568, 80.022409)",No,Teasing,10,Resolved,18-01-2024,20:16,Thursday,Safe Zone,36,Notified
+Smartwatch,"(15.682994, 80.009932)",Yes,Assault,29,Resolved,24-05-2024,21:32,Friday,Safe Zone,28,Notified with Delay
+Smartwatch,"(15.581897, 80.001835)",Yes,Assault,28,In Progress,30-08-2024,13:55,Friday,Moderate-risk Zone,17,Notified with Confirmation
+Mobile,"(15.512721, 80.091483)",No,Teasing,14,In Progress,22-02-2024,01:25,Thursday,Safe Zone,27,Notified with Delay
+Panic Button Device,"(15.544574, 80.107232)",Yes,Assault,2,In Progress,10-07-2024,21:40,Wednesday,Moderate-risk Zone,42,Notified with Confirmation
+Panic Button Device,"(15.523263, 80.167467)",No,Teasing,15,Unresolved,04-03-2024,21:46,Monday,Moderate-risk Zone,19,Notified
+Panic Button Device,"(15.643085, 80.135437)",Yes,Assault,9,Unresolved,04-09-2024,19:26,Wednesday,High-risk Zone,42,Notified with Confirmation
+Smartwatch,"(15.675535, 80.150821)",No,Teasing,8,Resolved,13-06-2024,14:50,Thursday,High-risk Zone,24,Notified with Delay
+Mobile,"(15.523329, 80.043357)",No,Assault,7,In Progress,22-01-2024,03:24,Monday,Moderate-risk Zone,21,Notified with Delay
+Mobile,"(15.547277, 80.14287)",Yes,Assault,20,Unresolved,13-11-2024,03:19,Wednesday,Moderate-risk Zone,36,Notified
+Panic Button Device,"(15.67051, 80.004729)",Yes,Teasing,21,In Progress,23-12-2024,07:18,Monday,Moderate-risk Zone,27,Notified with Confirmation
+Panic Button Device,"(15.529411, 80.145987)",No,Assault,3,In Progress,12-11-2024,06:37,Tuesday,Moderate-risk Zone,24,Notified with Delay
+Smartwatch,"(15.595464, 80.045256)",No,Assault,23,Unresolved,04-03-2024,03:53,Monday,Safe Zone,38,Notified with Confirmation
+Mobile,"(15.523955, 80.126039)",No,Teasing,17,In Progress,22-02-2024,18:30,Thursday,High-risk Zone,36,Notified with Delay
+Panic Button Device,"(15.64908, 80.06638)",Yes,Assault,13,In Progress,04-12-2024,20:58,Wednesday,High-risk Zone,43,Notified with Confirmation
+Mobile,"(15.674392, 80.039428)",Yes,Assault,21,Resolved,05-02-2024,06:05,Monday,High-risk Zone,22,Notified with Delay
+Smartwatch,"(15.538772, 80.107187)",No,Teasing,7,Unresolved,23-07-2024,14:55,Tuesday,Safe Zone,21,Notified
+Smartwatch,"(15.589903, 80.109687)",No,Assault,5,Resolved,20-09-2024,10:57,Friday,Safe Zone,18,Notified with Confirmation
+Panic Button Device,"(15.536037, 80.156185)",No,Teasing,19,In Progress,23-09-2024,03:21,Monday,High-risk Zone,38,Notified with Confirmation
+Panic Button Device,"(15.68287, 80.106105)",No,Teasing,20,Unresolved,22-06-2024,21:10,Saturday,Moderate-risk Zone,29,Notified with Delay
+Panic Button Device,"(15.559618, 80.122003)",No,Assault,13,Unresolved,08-07-2024,11:40,Monday,Safe Zone,20,Notified with Delay
+Smartwatch,"(15.600496, 80.046658)",No,Teasing,23,In Progress,13-08-2024,08:10,Tuesday,Moderate-risk Zone,35,Notified with Confirmation
+Mobile,"(15.577006, 80.159864)",Yes,Assault,27,Resolved,27-10-2024,03:43,Sunday,High-risk Zone,41,Notified with Confirmation
+Mobile,"(15.574502, 80.179685)",Yes,Teasing,19,Resolved,14-11-2024,17:15,Thursday,High-risk Zone,36,Notified with Delay
+Mobile,"(15.69828, 80.155758)",Yes,Teasing,2,Resolved,18-12-2024,03:51,Wednesday,Moderate-risk Zone,32,Notified
+Smartwatch,"(15.54529, 80.046598)",No,Teasing,16,In Progress,27-07-2024,07:53,Saturday,Moderate-risk Zone,31,Notified with Confirmation
+Smartwatch,"(15.613887, 80.031909)",No,Assault,24,Unresolved,22-07-2024,00:45,Monday,Safe Zone,25,Notified with Confirmation
+Mobile,"(15.543617, 80.140135)",No,Assault,21,Resolved,04-12-2024,09:13,Wednesday,Safe Zone,34,Notified with Confirmation
+Panic Button Device,"(15.502947, 80.062129)",Yes,Assault,8,In Progress,07-10-2024,17:47,Monday,Safe Zone,16,Notified with Confirmation
+Panic Button Device,"(15.678599, 80.028707)",No,Teasing,24,Unresolved,18-04-2024,15:56,Thursday,High-risk Zone,42,Notified
+Panic Button Device,"(15.569396, 80.188068)",Yes,Assault,7,Resolved,15-12-2024,04:28,Sunday,Safe Zone,44,Notified
+Panic Button Device,"(15.611806, 80.154503)",No,Teasing,11,Resolved,17-06-2024,13:42,Monday,High-risk Zone,19,Notified with Delay
+Smartwatch,"(15.693055, 80.055508)",Yes,Assault,3,Resolved,26-10-2024,02:58,Saturday,Safe Zone,19,Notified
+Panic Button Device,"(15.658853, 80.058735)",No,Teasing,5,Resolved,25-12-2024,13:07,Wednesday,Safe Zone,29,Notified
+Smartwatch,"(15.592211, 80.119913)",No,Teasing,28,Resolved,12-01-2024,06:57,Friday,High-risk Zone,43,Notified with Confirmation
+Smartwatch,"(15.570461, 80.05014)",Yes,Teasing,12,Unresolved,04-05-2024,06:15,Saturday,Safe Zone,28,Notified with Delay
+Panic Button Device,"(15.683612, 80.047827)",No,Assault,26,Resolved,03-01-2024,18:30,Wednesday,Moderate-risk Zone,24,Notified with Confirmation
+Panic Button Device,"(15.531081, 80.191136)",Yes,Assault,14,Resolved,06-11-2024,04:59,Wednesday,Moderate-risk Zone,45,Notified
+Panic Button Device,"(15.570686, 80.06515)",No,Teasing,19,Resolved,24-11-2024,18:16,Sunday,Moderate-risk Zone,32,Notified with Confirmation
+Smartwatch,"(15.536694, 80.061624)",No,Assault,7,In Progress,28-02-2024,23:19,Wednesday,High-risk Zone,31,Notified
+Mobile,"(15.647587, 80.171009)",Yes,Assault,21,Unresolved,12-12-2024,04:50,Thursday,High-risk Zone,44,Notified with Delay
+Panic Button Device,"(15.615507, 80.180351)",Yes,Assault,6,In Progress,11-09-2024,00:03,Wednesday,High-risk Zone,37,Notified with Confirmation
+Smartwatch,"(15.627347, 80.151999)",Yes,Assault,5,Unresolved,22-06-2024,17:16,Saturday,Safe Zone,43,Notified
+Panic Button Device,"(15.662911, 80.080567)",No,Teasing,7,In Progress,09-12-2024,08:11,Monday,High-risk Zone,26,Notified
+Panic Button Device,"(15.643696, 80.084363)",Yes,Assault,16,In Progress,23-05-2024,05:12,Thursday,Safe Zone,44,Notified with Delay
+Mobile,"(15.615874, 80.169574)",No,Assault,9,In Progress,12-07-2024,15:58,Friday,Moderate-risk Zone,18,Notified with Delay
+Smartwatch,"(15.605087, 80.076563)",No,Teasing,5,Unresolved,20-05-2024,09:32,Monday,Moderate-risk Zone,30,Notified
+Panic Button Device,"(15.65246, 80.048068)",No,Assault,9,Unresolved,04-08-2024,12:18,Sunday,High-risk Zone,20,Notified with Delay
+Panic Button Device,"(15.545983, 80.049294)",Yes,Assault,6,Resolved,23-04-2024,20:06,Tuesday,Moderate-risk Zone,38,Notified with Delay
+Smartwatch,"(15.653141, 80.100297)",Yes,Teasing,22,In Progress,01-06-2024,11:21,Saturday,Safe Zone,16,Notified with Confirmation
+Smartwatch,"(15.532536, 80.175807)",No,Assault,16,Resolved,22-10-2024,17:49,Tuesday,High-risk Zone,37,Notified
+Panic Button Device,"(15.580109, 80.019834)",Yes,Teasing,17,In Progress,16-03-2024,15:58,Saturday,High-risk Zone,24,Notified with Confirmation
+Panic Button Device,"(15.658507, 80.156518)",No,Teasing,6,Unresolved,12-08-2024,10:45,Monday,Safe Zone,34,Notified with Confirmation
+Panic Button Device,"(15.532724, 80.159133)",Yes,Assault,2,Unresolved,14-09-2024,15:28,Saturday,High-risk Zone,33,Notified with Delay
+Smartwatch,"(15.682664, 80.000986)",No,Assault,26,Unresolved,15-12-2024,21:03,Sunday,High-risk Zone,28,Notified with Confirmation
+Mobile,"(15.589398, 80.031156)",No,Assault,20,In Progress,01-08-2024,15:28,Thursday,High-risk Zone,23,Notified with Delay
+Smartwatch,"(15.669874, 80.14483)",No,Assault,23,Resolved,02-02-2024,06:22,Friday,Safe Zone,37,Notified with Confirmation
+Mobile,"(15.614548, 80.072305)",No,Teasing,7,Unresolved,20-12-2024,14:26,Friday,High-risk Zone,34,Notified with Delay
+Panic Button Device,"(15.692271, 80.113892)",No,Assault,5,In Progress,21-05-2024,19:03,Tuesday,High-risk Zone,25,Notified with Confirmation
+Smartwatch,"(15.529762, 80.062789)",Yes,Teasing,23,Resolved,05-05-2024,17:03,Sunday,Moderate-risk Zone,24,Notified
+Smartwatch,"(15.537707, 80.033684)",No,Teasing,22,Unresolved,05-03-2024,13:24,Tuesday,Safe Zone,38,Notified with Delay
+Panic Button Device,"(15.654886, 80.186884)",No,Teasing,23,Resolved,10-10-2024,06:10,Thursday,High-risk Zone,40,Notified with Delay
+Mobile,"(15.661917, 80.148332)",No,Assault,2,In Progress,16-10-2024,23:39,Wednesday,High-risk Zone,15,Notified
+Panic Button Device,"(15.529257, 80.002092)",No,Assault,12,Resolved,26-06-2024,20:57,Wednesday,High-risk Zone,33,Notified with Delay
+Mobile,"(15.655745, 80.107767)",Yes,Assault,23,In Progress,20-09-2024,23:39,Friday,Moderate-risk Zone,31,Notified with Confirmation
+Panic Button Device,"(15.56825, 80.074979)",No,Teasing,7,Resolved,27-08-2024,05:03,Tuesday,Moderate-risk Zone,30,Notified with Confirmation
+Panic Button Device,"(15.548327, 80.177919)",No,Assault,6,In Progress,31-01-2024,09:33,Wednesday,Safe Zone,32,Notified with Confirmation
+Panic Button Device,"(15.587405, 80.098688)",Yes,Assault,27,In Progress,28-04-2024,20:17,Sunday,Moderate-risk Zone,23,Notified
+Mobile,"(15.672518, 80.017171)",No,Teasing,14,Unresolved,30-01-2024,16:10,Tuesday,Moderate-risk Zone,18,Notified with Confirmation
+Smartwatch,"(15.640344, 80.043348)",Yes,Assault,23,Resolved,25-03-2024,10:18,Monday,High-risk Zone,37,Notified with Delay
+Mobile,"(15.630687, 80.155039)",Yes,Teasing,26,Unresolved,16-09-2024,08:05,Monday,High-risk Zone,38,Notified with Confirmation
+Smartwatch,"(15.509164, 80.126149)",No,Teasing,30,Unresolved,27-12-2024,11:21,Friday,High-risk Zone,41,Notified with Delay
+Smartwatch,"(15.504169, 80.04623)",Yes,Teasing,23,Resolved,13-11-2024,19:58,Wednesday,High-risk Zone,15,Notified
+Mobile,"(15.546901, 80.080244)",Yes,Assault,2,In Progress,17-03-2024,08:30,Sunday,High-risk Zone,28,Notified with Delay
+Smartwatch,"(15.684088, 80.050542)",Yes,Teasing,24,Resolved,24-06-2024,13:10,Monday,Safe Zone,37,Notified
+Mobile,"(15.584497, 80.027615)",Yes,Teasing,8,In Progress,08-03-2024,04:00,Friday,Moderate-risk Zone,27,Notified
+Smartwatch,"(15.519611, 80.033311)",No,Assault,11,In Progress,29-09-2024,17:54,Sunday,Moderate-risk Zone,38,Notified with Delay
+Panic Button Device,"(15.555584, 80.081147)",No,Teasing,8,Unresolved,14-10-2024,16:56,Monday,High-risk Zone,22,Notified with Delay
+Panic Button Device,"(15.524695, 80.053863)",Yes,Assault,7,Resolved,10-07-2024,05:30,Wednesday,Moderate-risk Zone,36,Notified
+Smartwatch,"(15.501497, 80.052813)",Yes,Teasing,5,Unresolved,07-04-2024,09:33,Sunday,Moderate-risk Zone,37,Notified with Confirmation
+Mobile,"(15.501863, 80.020404)",No,Teasing,4,Resolved,19-12-2024,06:11,Thursday,Moderate-risk Zone,35,Notified with Delay
+Panic Button Device,"(15.55495, 80.122955)",No,Assault,30,Resolved,06-01-2024,23:12,Saturday,High-risk Zone,32,Notified with Delay
+Panic Button Device,"(15.535697, 80.057228)",No,Assault,26,In Progress,11-03-2024,11:53,Monday,Moderate-risk Zone,26,Notified
+Smartwatch,"(15.516149, 80.184851)",No,Teasing,23,Resolved,27-01-2024,19:32,Saturday,High-risk Zone,27,Notified with Confirmation
+Smartwatch,"(15.596173, 80.096011)",Yes,Teasing,19,In Progress,30-07-2024,10:36,Tuesday,Moderate-risk Zone,35,Notified with Confirmation
+Mobile,"(15.691568, 80.122313)",Yes,Teasing,7,Resolved,28-08-2024,02:15,Wednesday,Moderate-risk Zone,24,Notified
+Panic Button Device,"(15.51387, 80.18002)",Yes,Assault,19,In Progress,23-02-2024,08:58,Friday,Moderate-risk Zone,36,Notified with Delay
+Smartwatch,"(15.612838, 80.009324)",No,Assault,6,Unresolved,31-10-2024,11:08,Thursday,High-risk Zone,40,Notified with Confirmation
+Panic Button Device,"(15.583428, 80.129492)",Yes,Assault,26,Resolved,15-01-2024,19:50,Monday,Safe Zone,25,Notified with Delay
+Mobile,"(15.511139, 80.029287)",Yes,Assault,11,Unresolved,17-10-2024,03:35,Thursday,High-risk Zone,31,Notified with Delay
+Smartwatch,"(15.582942, 80.065247)",Yes,Teasing,12,Resolved,07-02-2024,02:04,Wednesday,Safe Zone,41,Notified with Delay
+Mobile,"(15.651648, 80.08656)",Yes,Assault,22,Unresolved,15-04-2024,04:22,Monday,Safe Zone,33,Notified with Confirmation
+Smartwatch,"(15.599497, 80.194433)",No,Assault,19,Resolved,15-03-2024,01:28,Friday,Safe Zone,27,Notified
+Mobile,"(15.649436, 80.162967)",Yes,Teasing,8,In Progress,25-12-2024,08:06,Wednesday,Safe Zone,38,Notified with Delay
+Smartwatch,"(15.599036, 80.021381)",Yes,Assault,18,Unresolved,16-06-2024,02:05,Sunday,Moderate-risk Zone,44,Notified
+Panic Button Device,"(15.678803, 80.152969)",No,Teasing,23,Resolved,28-02-2024,01:44,Wednesday,Safe Zone,28,Notified
+Mobile,"(15.541883, 80.106849)",Yes,Teasing,13,In Progress,05-08-2024,03:06,Monday,High-risk Zone,27,Notified with Delay
+Smartwatch,"(15.527785, 80.133476)",No,Teasing,14,Unresolved,05-01-2024,18:04,Friday,Safe Zone,44,Notified with Confirmation
+Smartwatch,"(15.528629, 80.197174)",Yes,Teasing,30,Resolved,30-11-2024,04:33,Saturday,Moderate-risk Zone,19,Notified
+Panic Button Device,"(15.560383, 80.014058)",No,Assault,30,Resolved,24-11-2024,01:56,Sunday,Safe Zone,29,Notified
+Smartwatch,"(15.592291, 80.181827)",No,Teasing,21,Resolved,28-09-2024,04:01,Saturday,Moderate-risk Zone,29,Notified with Confirmation
+Mobile,"(15.584781, 80.02441)",No,Assault,8,Resolved,24-08-2024,00:51,Saturday,Safe Zone,43,Notified
+Panic Button Device,"(15.509797, 80.19851)",Yes,Assault,12,Unresolved,05-07-2024,10:04,Friday,Moderate-risk Zone,19,Notified with Delay
+Mobile,"(15.643975, 80.077043)",Yes,Assault,9,Resolved,07-01-2024,17:33,Sunday,Safe Zone,38,Notified with Delay
+Smartwatch,"(15.565853, 80.094578)",No,Assault,23,Unresolved,08-05-2024,21:12,Wednesday,Moderate-risk Zone,26,Notified
+Mobile,"(15.654372, 80.03833)",Yes,Teasing,29,In Progress,21-03-2024,16:00,Thursday,Moderate-risk Zone,24,Notified with Confirmation
+Smartwatch,"(15.513938, 80.162602)",Yes,Teasing,24,Unresolved,23-12-2024,14:28,Monday,Moderate-risk Zone,45,Notified with Delay
+Smartwatch,"(15.670791, 80.190711)",No,Assault,5,Resolved,29-02-2024,18:31,Thursday,Moderate-risk Zone,25,Notified
+Smartwatch,"(15.616007, 80.199057)",No,Teasing,14,In Progress,06-05-2024,08:42,Monday,High-risk Zone,23,Notified with Delay
+Smartwatch,"(15.610916, 80.088152)",Yes,Teasing,19,Resolved,27-09-2024,04:38,Friday,Safe Zone,17,Notified with Delay
+Mobile,"(15.509984, 80.102823)",No,Assault,7,Unresolved,22-09-2024,17:17,Sunday,High-risk Zone,22,Notified with Delay
+Mobile,"(15.657107, 80.169176)",Yes,Assault,10,Unresolved,11-01-2024,06:11,Thursday,Safe Zone,15,Notified with Confirmation
+Smartwatch,"(15.654694, 80.176531)",No,Teasing,30,Resolved,16-10-2024,10:49,Wednesday,Moderate-risk Zone,35,Notified with Delay
+Panic Button Device,"(15.673881, 80.153278)",Yes,Assault,19,In Progress,24-02-2024,21:24,Saturday,Moderate-risk Zone,26,Notified with Confirmation
+Mobile,"(15.687213, 80.086234)",Yes,Assault,2,Unresolved,09-08-2024,04:03,Friday,High-risk Zone,29,Notified with Delay
+Mobile,"(15.63629, 80.032891)",No,Teasing,7,In Progress,23-10-2024,17:14,Wednesday,Moderate-risk Zone,43,Notified with Confirmation
+Smartwatch,"(15.536122, 80.096521)",No,Assault,28,Unresolved,05-07-2024,09:21,Friday,High-risk Zone,18,Notified with Confirmation
+Smartwatch,"(15.6458, 80.124697)",No,Teasing,19,In Progress,12-12-2024,07:00,Thursday,Safe Zone,45,Notified with Delay
+Smartwatch,"(15.50258, 80.155206)",No,Teasing,17,Resolved,03-02-2024,01:36,Saturday,Moderate-risk Zone,38,Notified with Confirmation
+Panic Button Device,"(15.679889, 80.057352)",No,Assault,4,In Progress,28-05-2024,21:49,Tuesday,Safe Zone,42,Notified with Confirmation
+Mobile,"(15.687583, 80.055827)",No,Assault,19,In Progress,19-11-2024,07:31,Tuesday,Safe Zone,27,Notified with Confirmation
+Panic Button Device,"(15.556969, 80.015867)",Yes,Assault,14,Unresolved,14-05-2024,03:07,Tuesday,Moderate-risk Zone,42,Notified with Delay
+Panic Button Device,"(15.636393, 80.002021)",No,Assault,12,Resolved,23-01-2024,17:15,Tuesday,Moderate-risk Zone,19,Notified
+Smartwatch,"(15.551882, 80.046844)",No,Teasing,27,In Progress,15-08-2024,09:40,Thursday,Moderate-risk Zone,21,Notified with Confirmation
+Mobile,"(15.668988, 80.012909)",Yes,Assault,7,Unresolved,04-11-2024,03:27,Monday,Safe Zone,29,Notified
+Panic Button Device,"(15.53727, 80.129323)",No,Teasing,27,Unresolved,01-10-2024,14:54,Tuesday,Moderate-risk Zone,45,Notified
+Mobile,"(15.511398, 80.157127)",Yes,Teasing,23,Unresolved,07-10-2024,01:31,Monday,Moderate-risk Zone,29,Notified with Delay
+Panic Button Device,"(15.630975, 80.02023)",No,Teasing,2,Resolved,10-07-2024,18:07,Wednesday,Moderate-risk Zone,36,Notified with Delay
+Panic Button Device,"(15.573484, 80.078213)",Yes,Assault,18,Resolved,06-07-2024,11:28,Saturday,Moderate-risk Zone,44,Notified

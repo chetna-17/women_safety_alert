@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_01159dc525ff5d401ac30af689bae4ad {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_01159dc525ff5d401ac30af689bae4ad" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_01159dc525ff5d401ac30af689bae4ad = L.map(
+                "map_01159dc525ff5d401ac30af689bae4ad",
+                {
+                    center: [12.9728512, 77.6208384],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 14,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_bacdad846199aa0e5123de9f230d0630 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_bacdad846199aa0e5123de9f230d0630.addTo(map_01159dc525ff5d401ac30af689bae4ad);
+        
+    
+            var marker_4674841f9d6bf0fefcbc56cdd954a546 = L.marker(
+                [12.9728512, 77.6208384],
+                {
+}
+            ).addTo(map_01159dc525ff5d401ac30af689bae4ad);
+        
+    
+            var icon_a151ed6c9cf7b1dd261fdf0f890edd56 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c6615f3f5c22f224d99e9cbcffd2f139 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8ff5bbb01d185d99a5e08f491076652c = $(`<div id="html_8ff5bbb01d185d99a5e08f491076652c" style="width: 100.0%; height: 100.0%;">Victim Location<br>2025-06-04 13:58:59<br>Outcome: Resolved<br>Prob: 0.43</div>`)[0];
+                popup_c6615f3f5c22f224d99e9cbcffd2f139.setContent(html_8ff5bbb01d185d99a5e08f491076652c);
+            
+        
+
+        marker_4674841f9d6bf0fefcbc56cdd954a546.bindPopup(popup_c6615f3f5c22f224d99e9cbcffd2f139)
+        ;
+
+        
+    
+    
+                marker_4674841f9d6bf0fefcbc56cdd954a546.setIcon(icon_a151ed6c9cf7b1dd261fdf0f890edd56);
+            
+    
+            var marker_d12ed940ac0c136a45c29a6630760aa8 = L.marker(
+                [12.9762399, 77.5983458],
+                {
+}
+            ).addTo(map_01159dc525ff5d401ac30af689bae4ad);
+        
+    
+            var icon_f2ede13de39ed13725139dbf845e57c1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ab01844baedfba44c1b458d28e22bd44 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d2bd1f69f68b8b8a2672a9e5cdd9c25d = $(`<div id="html_d2bd1f69f68b8b8a2672a9e5cdd9c25d" style="width: 100.0%; height: 100.0%;">Cubbon Park Police Station</div>`)[0];
+                popup_ab01844baedfba44c1b458d28e22bd44.setContent(html_d2bd1f69f68b8b8a2672a9e5cdd9c25d);
+            
+        
+
+        marker_d12ed940ac0c136a45c29a6630760aa8.bindPopup(popup_ab01844baedfba44c1b458d28e22bd44)
+        ;
+
+        
+    
+    
+                marker_d12ed940ac0c136a45c29a6630760aa8.setIcon(icon_f2ede13de39ed13725139dbf845e57c1);
+            
+    
+            var marker_e0fe6683bab9cfc2f8f17e5d21f7e446 = L.marker(
+                [12.983019, 77.6384106],
+                {
+}
+            ).addTo(map_01159dc525ff5d401ac30af689bae4ad);
+        
+    
+            var icon_0060340fa575bbe575107fbbf596e603 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1a0d0138b9c3662327261cb3a9499d45 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_85269d323e917dc8908047b5e66f6c3f = $(`<div id="html_85269d323e917dc8908047b5e66f6c3f" style="width: 100.0%; height: 100.0%;">Indira Nagar Police Station</div>`)[0];
+                popup_1a0d0138b9c3662327261cb3a9499d45.setContent(html_85269d323e917dc8908047b5e66f6c3f);
+            
+        
+
+        marker_e0fe6683bab9cfc2f8f17e5d21f7e446.bindPopup(popup_1a0d0138b9c3662327261cb3a9499d45)
+        ;
+
+        
+    
+    
+                marker_e0fe6683bab9cfc2f8f17e5d21f7e446.setIcon(icon_0060340fa575bbe575107fbbf596e603);
+            
+    
+            var marker_6a4249ee8e42dddf292b20dc314e267e = L.marker(
+                [12.9825702, 77.6070982],
+                {
+}
+            ).addTo(map_01159dc525ff5d401ac30af689bae4ad);
+        
+    
+            var icon_12987cc72bda7654fdf5431dd83ccf4b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ce9ba12e576f71a80cddf4a14011b108 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0884e2cb84d5a3ec44e5f2c5400812d0 = $(`<div id="html_0884e2cb84d5a3ec44e5f2c5400812d0" style="width: 100.0%; height: 100.0%;">Commercial Street Police Station</div>`)[0];
+                popup_ce9ba12e576f71a80cddf4a14011b108.setContent(html_0884e2cb84d5a3ec44e5f2c5400812d0);
+            
+        
+
+        marker_6a4249ee8e42dddf292b20dc314e267e.bindPopup(popup_ce9ba12e576f71a80cddf4a14011b108)
+        ;
+
+        
+    
+    
+                marker_6a4249ee8e42dddf292b20dc314e267e.setIcon(icon_12987cc72bda7654fdf5431dd83ccf4b);
+            
+    
+            var marker_cf3f7284d3fad99660549790af31f913 = L.marker(
+                [12.978243, 77.6404269],
+                {
+}
+            ).addTo(map_01159dc525ff5d401ac30af689bae4ad);
+        
+    
+            var icon_4d6a3f0bc050a872b1739e21a5259f56 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8a91df6b30adf635ec2bf61c10428bdb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bcf6ed5725213825dcdd26b5832d2083 = $(`<div id="html_bcf6ed5725213825dcdd26b5832d2083" style="width: 100.0%; height: 100.0%;">Indiranagar Traffic Police Station</div>`)[0];
+                popup_8a91df6b30adf635ec2bf61c10428bdb.setContent(html_bcf6ed5725213825dcdd26b5832d2083);
+            
+        
+
+        marker_cf3f7284d3fad99660549790af31f913.bindPopup(popup_8a91df6b30adf635ec2bf61c10428bdb)
+        ;
+
+        
+    
+    
+                marker_cf3f7284d3fad99660549790af31f913.setIcon(icon_4d6a3f0bc050a872b1739e21a5259f56);
+            
+    
+            var marker_91a86c1e35cbbef379ef0189324e02fb = L.marker(
+                [12.9691307, 77.6168652],
+                {
+}
+            ).addTo(map_01159dc525ff5d401ac30af689bae4ad);
+        
+    
+            var icon_524a9b5b4ca3f16689139bc8ca4c4919 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_10caaae9176d023522b39f94fef2cc5d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7f2855795052b8330dea1dd2da472076 = $(`<div id="html_7f2855795052b8330dea1dd2da472076" style="width: 100.0%; height: 100.0%;">Karnataka State Reserve Police</div>`)[0];
+                popup_10caaae9176d023522b39f94fef2cc5d.setContent(html_7f2855795052b8330dea1dd2da472076);
+            
+        
+
+        marker_91a86c1e35cbbef379ef0189324e02fb.bindPopup(popup_10caaae9176d023522b39f94fef2cc5d)
+        ;
+
+        
+    
+    
+                marker_91a86c1e35cbbef379ef0189324e02fb.setIcon(icon_524a9b5b4ca3f16689139bc8ca4c4919);
+            
+    
+            var marker_804b2efa3fe4d37abf200ef31c4a7ffa = L.marker(
+                [12.9760045, 77.5981119],
+                {
+}
+            ).addTo(map_01159dc525ff5d401ac30af689bae4ad);
+        
+    
+            var icon_81f9c061610525e7c49603b71c491d61 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1a877521b42e5f340b6427ddfdfa804d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6d6318bc19445d9fc4e04fdebaf9d65e = $(`<div id="html_6d6318bc19445d9fc4e04fdebaf9d65e" style="width: 100.0%; height: 100.0%;">Cubbon Park Traffic Police Station</div>`)[0];
+                popup_1a877521b42e5f340b6427ddfdfa804d.setContent(html_6d6318bc19445d9fc4e04fdebaf9d65e);
+            
+        
+
+        marker_804b2efa3fe4d37abf200ef31c4a7ffa.bindPopup(popup_1a877521b42e5f340b6427ddfdfa804d)
+        ;
+
+        
+    
+    
+                marker_804b2efa3fe4d37abf200ef31c4a7ffa.setIcon(icon_81f9c061610525e7c49603b71c491d61);
+            
+</script>
+</html>

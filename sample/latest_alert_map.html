@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_650b610df0afdbea87309df041b73121 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_650b610df0afdbea87309df041b73121" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_650b610df0afdbea87309df041b73121 = L.map(
+                "map_650b610df0afdbea87309df041b73121",
+                {
+                    center: [13.0318336, 77.5487488],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 14,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_3356fcffd8de3c5fc4912339bc7808f9 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_3356fcffd8de3c5fc4912339bc7808f9.addTo(map_650b610df0afdbea87309df041b73121);
+        
+    
+            var marker_2d8dd6775873b58dace46d37309fbb48 = L.marker(
+                [13.0318336, 77.5487488],
+                {
+}
+            ).addTo(map_650b610df0afdbea87309df041b73121);
+        
+    
+            var icon_c84c6ff2eaa279fe87f06ef99ff752de = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_424b3d99d50c1b2ebc78c57fd25787dd = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2fc2759cf167c44e5f537fd1ebb81de7 = $(`<div id="html_2fc2759cf167c44e5f537fd1ebb81de7" style="width: 100.0%; height: 100.0%;">Victim Location<br>2025-06-05 10:30:53<br>Outcome: Resolved<br>Prob: 0.43</div>`)[0];
+                popup_424b3d99d50c1b2ebc78c57fd25787dd.setContent(html_2fc2759cf167c44e5f537fd1ebb81de7);
+            
+        
+
+        marker_2d8dd6775873b58dace46d37309fbb48.bindPopup(popup_424b3d99d50c1b2ebc78c57fd25787dd)
+        ;
+
+        
+    
+    
+                marker_2d8dd6775873b58dace46d37309fbb48.setIcon(icon_c84c6ff2eaa279fe87f06ef99ff752de);
+            
+    
+            var marker_78841f1140b8db18cf1d5625ffcf736c = L.marker(
+                [13.0181973, 77.5581675],
+                {
+}
+            ).addTo(map_650b610df0afdbea87309df041b73121);
+        
+    
+            var icon_e0a3cfe117f87676f6fcf876eef89db8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7a57f5541211b8d140b909c48832fd24 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7f503ec65da0328a881b80c90c99e9c3 = $(`<div id="html_7f503ec65da0328a881b80c90c99e9c3" style="width: 100.0%; height: 100.0%;">DCP Bangalore North Traffic Police</div>`)[0];
+                popup_7a57f5541211b8d140b909c48832fd24.setContent(html_7f503ec65da0328a881b80c90c99e9c3);
+            
+        
+
+        marker_78841f1140b8db18cf1d5625ffcf736c.bindPopup(popup_7a57f5541211b8d140b909c48832fd24)
+        ;
+
+        
+    
+    
+                marker_78841f1140b8db18cf1d5625ffcf736c.setIcon(icon_e0a3cfe117f87676f6fcf876eef89db8);
+            
+    
+            var marker_bf609bea79f9285be3677ded5f3adee6 = L.marker(
+                [13.0486481, 77.5495673],
+                {
+}
+            ).addTo(map_650b610df0afdbea87309df041b73121);
+        
+    
+            var icon_b7875ce95d59d9546a44c359e55d2efd = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2e1111324d0be1eb489c9ed698066ba0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_805f919cfc3555c0d3ff6c6333632151 = $(`<div id="html_805f919cfc3555c0d3ff6c6333632151" style="width: 100.0%; height: 100.0%;">Jalahalli Police Station</div>`)[0];
+                popup_2e1111324d0be1eb489c9ed698066ba0.setContent(html_805f919cfc3555c0d3ff6c6333632151);
+            
+        
+
+        marker_bf609bea79f9285be3677ded5f3adee6.bindPopup(popup_2e1111324d0be1eb489c9ed698066ba0)
+        ;
+
+        
+    
+    
+                marker_bf609bea79f9285be3677ded5f3adee6.setIcon(icon_b7875ce95d59d9546a44c359e55d2efd);
+            
+    
+            var marker_cc52c31d0cdc9a485f625d29b95ac6c5 = L.marker(
+                [13.0335598, 77.5758979],
+                {
+}
+            ).addTo(map_650b610df0afdbea87309df041b73121);
+        
+    
+            var icon_2ff6bf1114ee8c9c79be3fee2143b2fc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7cb8b6b4eb35f0ea00658c950ab0741c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_54443ecc30c220072c3c8cf663f85613 = $(`<div id="html_54443ecc30c220072c3c8cf663f85613" style="width: 100.0%; height: 100.0%;">Sanjayanagar Police station</div>`)[0];
+                popup_7cb8b6b4eb35f0ea00658c950ab0741c.setContent(html_54443ecc30c220072c3c8cf663f85613);
+            
+        
+
+        marker_cc52c31d0cdc9a485f625d29b95ac6c5.bindPopup(popup_7cb8b6b4eb35f0ea00658c950ab0741c)
+        ;
+
+        
+    
+    
+                marker_cc52c31d0cdc9a485f625d29b95ac6c5.setIcon(icon_2ff6bf1114ee8c9c79be3fee2143b2fc);
+            
+    
+            var marker_250f492136f82062f8c8fafb85cdacfb = L.marker(
+                [13.0124684, 77.5368288],
+                {
+}
+            ).addTo(map_650b610df0afdbea87309df041b73121);
+        
+    
+            var icon_4aab28452671a1b47b0d703d5728b2c4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_821b3f6fea24e0a2f1eadb26b419d043 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_28a2f70cac57319b87e72dc58f990b1b = $(`<div id="html_28a2f70cac57319b87e72dc58f990b1b" style="width: 100.0%; height: 100.0%;">Nandini Layout Police Station</div>`)[0];
+                popup_821b3f6fea24e0a2f1eadb26b419d043.setContent(html_28a2f70cac57319b87e72dc58f990b1b);
+            
+        
+
+        marker_250f492136f82062f8c8fafb85cdacfb.bindPopup(popup_821b3f6fea24e0a2f1eadb26b419d043)
+        ;
+
+        
+    
+    
+                marker_250f492136f82062f8c8fafb85cdacfb.setIcon(icon_4aab28452671a1b47b0d703d5728b2c4);
+            
+</script>
+</html>
